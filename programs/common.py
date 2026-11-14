@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parent.parent
 # Settings.
 EXTENSION = ".txt"  # only files with this extension are read from input/
 ENCODING = "utf-8-sig"  # utf-8, ignoring a leading byte-order mark
-MIN_SHARE_OF_TEXTS = 0.25  # a word is used only if it appears in at least this share of the texts
+MIN_SHARE_OF_TEXTS = 1  # a word is used only if it appears in at least this share of the texts
 NUMBER_OF_GROUPS = None  # step 5: how many authors to propose; None = choose automatically
 # (the command-line option --groups N overrides this)
 
