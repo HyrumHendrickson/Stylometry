@@ -1,32 +1,48 @@
-"""Step 2: find, for each author, the words used at the most consistent rate.
+"""Step 2: for each author, rank the words used at the most consistent rate.
 
-Reads ``temp/word_frequencies.csv``. For each author independently, keeps the words that
-occur in every one of that author's texts and ranks them by the coefficient of variation
-of their relative frequency (lowest first). Writes ``temp/stable_words_by_author.csv``.
+A word qualifies for an author only if it appears in every one of that author's texts.
+Qualifying words are ranked by the coefficient of variation (standard deviation / mean) of
+their frequency across the author's texts, lowest first (rank 1 = most consistent).
+Ties go to the more frequent word, then alphabetical order.
+
+Reads temp/word_frequencies.csv and writes temp/stable_words_by_author.csv.
 """
 
-from __future__ import annotations
+from pathlib import Path
 
-from collections.abc import Sequence
+import pandas as pd
 
-from stylometry.cli import execute, parse_args
-from stylometry.config import Config, ProjectPaths
-from stylometry.stability import rank_stable_words_by_author
-from stylometry.tables import read_table, write_table
-
-
-def run(paths: ProjectPaths, config: Config) -> None:
-    """Execute step 2."""
-    del config  # No tunable parameters; the list length is chosen in step 3.
-    frequencies = read_table(paths.word_frequencies, "programs.step1_word_frequencies")
-    rankings = rank_stable_words_by_author(frequencies)
-    write_table(rankings, paths.stable_words)
+from programs.common import (
+    ROOT,
+    STABLE_WORDS,
+    WORD_FREQUENCIES,
+    read_table,
+    root_from_command_line,
+    write_table,
+)
 
 
-def main(argv: Sequence[str] | None = None) -> int:
-    """Command-line entry point."""
-    return execute(parse_args(__doc__, argv), run)
+def rank_words(author_rows: pd.DataFrame) -> pd.DataFrame:
+    """Rank the words of one author. Input: that author's rows from step 1."""
+    # One row per text, one column per word; a word missing from any text is dropped.
+    wide = author_rows.pivot(index="text_id", columns="word", values="frequency").dropna(axis=1)
+    ranking = pd.DataFrame({"mean": wide.mean(), "std": wide.std()})
+    ranking["cv"] = ranking["std"] / ranking["mean"]
+    ranking = ranking.rename_axis("word").reset_index()
+    ranking = ranking.sort_values(["cv", "mean", "word"], ascending=[True, False, True])
+    ranking["rank"] = range(1, len(ranking) + 1)
+    return ranking[["rank", "word", "cv"]]
+
+
+def run(root: Path = ROOT) -> None:
+    frequencies = read_table(root / WORD_FREQUENCIES)
+    rankings = pd.concat(
+        [rank_words(rows).assign(author=author) for author, rows in frequencies.groupby("author")]
+    )
+    write_table(rankings[["author", "rank", "word", "cv"]], root / STABLE_WORDS, index=False)
+    for author, rows in rankings.groupby("author"):
+        print(f"{author}: {len(rows)} words appear in every text")
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    run(root_from_command_line(__doc__))

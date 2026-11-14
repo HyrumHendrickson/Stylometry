@@ -1,68 +1,90 @@
-"""Step 4: vectorize every text and compute all pairwise distances.
+"""Step 4: how well each shared word tells authors apart, and the distance between texts.
 
-Each text becomes a vector of its relative frequencies over the shared stable words. The
-configured metric (default: Fisher-weighted) is fitted on all texts and used to compute the
-full text-by-text distance matrix. Writes ``temp/feature_vectors.csv``,
-``temp/word_weights.csv`` (per-word F-ratio and weight) and ``temp/distance_matrix.csv``.
+Each text becomes a vector of the square roots of its shared-word frequencies (the square
+root evens out the variance of common and rare words).
+
+Power of a word = F-ratio from a one-way ANOVA: variance between author means divided by
+variance within authors. F near 1 means the word does not separate authors. Each word is
+weighted by max(F - 1, 0), scaled so the weights sum to 1.
+
+Distance between two texts u and v:  sqrt( sum_j weight_j * (u_j - v_j)^2 / within_j )
+
+Reads temp/word_frequencies.csv and temp/shared_stable_words.csv. Writes
+temp/word_power.csv (word, f_ratio, weight) and temp/distance_matrix.csv (text by text).
 """
 
-from __future__ import annotations
+from pathlib import Path
 
-import logging
-from collections.abc import Sequence
-
+import numpy as np
 import pandas as pd
 
-from stylometry.cli import execute, parse_args
-from stylometry.config import Config, ProjectPaths
-from stylometry.distance import discrimination_stats, make_model, variance_stabilize
-from stylometry.features import FeatureMatrix
-from stylometry.tables import read_table, write_table
+from programs.common import (
+    DISTANCE_MATRIX,
+    ROOT,
+    SHARED_WORDS,
+    WORD_FREQUENCIES,
+    WORD_POWER,
+    read_table,
+    root_from_command_line,
+    write_table,
+)
 
-LOGGER = logging.getLogger("step4")
+
+def word_power(x: np.ndarray, authors: np.ndarray) -> tuple[np.ndarray, np.ndarray, np.ndarray]:
+    """One-way ANOVA per word. x has one row per text and one column per word.
+
+    Returns (f_ratio, weight, within_variance), each with one value per word.
+    """
+    names = np.unique(authors)
+    n_texts, n_authors = len(x), len(names)
+    grand_mean = x.mean(axis=0)
+    between = np.zeros(x.shape[1])
+    within = np.zeros(x.shape[1])
+    for name in names:
+        rows = x[authors == name]
+        mean = rows.mean(axis=0)
+        between += len(rows) * (mean - grand_mean) ** 2
+        within += ((rows - mean) ** 2).sum(axis=0)
+
+    between_variance = between / (n_authors - 1)
+    within_variance = np.maximum(within / (n_texts - n_authors), 1e-12)  # avoid dividing by 0
+    f_ratio = between_variance / within_variance
+
+    excess = np.maximum(f_ratio - 1, 0)
+    weight = excess / excess.sum() if excess.any() else np.full(len(excess), 1 / len(excess))
+    return f_ratio, weight, within_variance
 
 
-def run(paths: ProjectPaths, config: Config) -> None:
-    """Execute step 4."""
-    frequencies = read_table(paths.word_frequencies, "programs.step1_word_frequencies")
-    totals = read_table(paths.text_totals, "programs.step1_word_frequencies")
-    shared = read_table(paths.shared_words, "programs.step3_shared_words")
+def run(root: Path = ROOT) -> None:
+    frequencies = read_table(root / WORD_FREQUENCIES)
+    words = read_table(root / SHARED_WORDS)["word"].tolist()
 
-    features = FeatureMatrix.build(frequencies, totals, shared["word"].tolist())
-    write_table(features.to_frame(), paths.feature_vectors)
-
-    floor = config.distance.variance_floor
-    stats = discrimination_stats(variance_stabilize(features.values), features.authors, floor)
-    weights = pd.DataFrame(
-        {
-            "word": features.words,
-            "within_variance": stats.within_variance,
-            "between_variance": stats.between_variance,
-            "f_ratio": stats.f_ratio,
-            "weight": stats.weights,
-        }
-    ).sort_values("f_ratio", ascending=False)
-    write_table(weights, paths.word_weights)
-
-    model = make_model(config.distance.metric, floor).fit(features.values, features.authors)
-    matrix = pd.DataFrame(
-        model.matrix(features.values), index=features.text_ids, columns=features.text_ids
+    # Texts ordered by author, then name, so each author's texts sit together.
+    texts = frequencies[["author", "text_id"]].drop_duplicates().sort_values(["author", "text_id"])
+    wide = (
+        frequencies[frequencies["word"].isin(words)]
+        .pivot(index="text_id", columns="word", values="frequency")
+        .reindex(index=texts["text_id"], columns=words)
+        .fillna(0.0)  # a word missing from a text has frequency 0
     )
-    matrix.index.name = "text_id"
-    write_table(matrix, paths.distance_matrix, index=True)
-    LOGGER.info(
-        "%s distances for %d texts over %d words. Most discriminative: %s",
-        config.distance.metric,
-        len(features.text_ids),
-        len(features.words),
-        ", ".join(weights["word"].head(5)),
-    )
+    x = np.sqrt(wide.to_numpy())
 
+    f_ratio, weight, within_variance = word_power(x, texts["author"].to_numpy())
+    power = pd.DataFrame({"word": words, "f_ratio": f_ratio, "weight": weight})
+    write_table(power.sort_values("f_ratio", ascending=False), root / WORD_POWER, index=False)
 
-def main(argv: Sequence[str] | None = None) -> int:
-    """Command-line entry point."""
-    return execute(parse_args(__doc__, argv), run)
+    # Weighted Euclidean distance, computed as an ordinary distance after rescaling each word.
+    scaled = x * np.sqrt(weight / within_variance)
+    squared_norms = (scaled**2).sum(axis=1)
+    squared = squared_norms[:, None] + squared_norms[None, :] - 2 * scaled @ scaled.T
+    distances = np.sqrt(np.maximum(squared, 0))
+    np.fill_diagonal(distances, 0)
+    matrix = pd.DataFrame(distances, index=texts["text_id"], columns=texts["text_id"])
+    write_table(matrix, root / DISTANCE_MATRIX)
+
+    best = power.sort_values("f_ratio", ascending=False)["word"].head(5)
+    print(f"{len(matrix)} x {len(matrix)} distance matrix. Best words: {', '.join(best)}")
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    run(root_from_command_line(__doc__))
