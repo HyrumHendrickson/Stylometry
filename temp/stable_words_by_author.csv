@@ -1,0 +1,2579 @@
+author,word,cv
+Edgar Allan Poe,a,0.1267708796884316
+Edgar Allan Poe,about,0.2994391157741575
+Edgar Allan Poe,above,0.6203586518936427
+Edgar Allan Poe,absolutely,0.7373640819758971
+Edgar Allan Poe,accident,0.9670883730114576
+Edgar Allan Poe,account,0.6151813861787929
+Edgar Allan Poe,act,0.8211389300131158
+Edgar Allan Poe,action,0.9093864897701884
+Edgar Allan Poe,admitted,0.8256391757381247
+Edgar Allan Poe,afford,0.9083015746903159
+Edgar Allan Poe,afforded,0.9515145869424037
+Edgar Allan Poe,after,0.5156755123858244
+Edgar Allan Poe,afterward,0.8304238366664579
+Edgar Allan Poe,again,0.38754682748167296
+Edgar Allan Poe,against,0.6504470812939104
+Edgar Allan Poe,agony,0.6412860181316901
+Edgar Allan Poe,air,0.6667116070737775
+Edgar Allan Poe,all,0.21477967085740773
+Edgar Allan Poe,allowed,0.9109208602994787
+Edgar Allan Poe,almost,0.8167419971809776
+Edgar Allan Poe,alone,0.8206234420665741
+Edgar Allan Poe,along,0.8560459872573184
+Edgar Allan Poe,already,0.5479199472331376
+Edgar Allan Poe,also,0.596037063387765
+Edgar Allan Poe,although,0.36245079004150643
+Edgar Allan Poe,altogether,0.4525026569679481
+Edgar Allan Poe,always,0.7269502344166107
+Edgar Allan Poe,am,0.6969416621813358
+Edgar Allan Poe,amid,0.9052794047580145
+Edgar Allan Poe,an,0.29744271472657746
+Edgar Allan Poe,and,0.16348397069071932
+Edgar Allan Poe,any,0.39352413377922835
+Edgar Allan Poe,anything,0.6354502038538764
+Edgar Allan Poe,apparent,0.7987543419625764
+Edgar Allan Poe,apparently,0.5861374839146678
+Edgar Allan Poe,appearance,0.7039380322157821
+Edgar Allan Poe,appeared,0.5961649658849989
+Edgar Allan Poe,approaching,0.9898262142954785
+Edgar Allan Poe,are,0.6438994993995256
+Edgar Allan Poe,arising,0.9937275673400728
+Edgar Allan Poe,arms,0.9153144590046367
+Edgar Allan Poe,arose,0.6969302505344442
+Edgar Allan Poe,around,0.7670130484760104
+Edgar Allan Poe,arrived,0.93223745604614
+Edgar Allan Poe,as,0.138824976300581
+Edgar Allan Poe,at,0.18121025941995744
+Edgar Allan Poe,attention,0.5457790932531643
+Edgar Allan Poe,aware,0.7360782130663739
+Edgar Allan Poe,away,0.8243744478461709
+Edgar Allan Poe,back,0.498182939906841
+Edgar Allan Poe,be,0.25390377868952274
+Edgar Allan Poe,bear,0.6785517976114656
+Edgar Allan Poe,bearing,0.7072074059574973
+Edgar Allan Poe,became,0.7625804002066503
+Edgar Allan Poe,become,0.949246061553189
+Edgar Allan Poe,been,0.3947636564670875
+Edgar Allan Poe,before,0.42527235989778617
+Edgar Allan Poe,behind,0.9058742146162534
+Edgar Allan Poe,being,0.7749448761339419
+Edgar Allan Poe,believe,0.523869352557307
+Edgar Allan Poe,besides,0.8461355831462366
+Edgar Allan Poe,best,0.7976502959701773
+Edgar Allan Poe,better,0.6317973211826755
+Edgar Allan Poe,between,0.6814773856357923
+Edgar Allan Poe,beyond,0.659278138614237
+Edgar Allan Poe,body,0.6543763409083809
+Edgar Allan Poe,bore,0.8930563414496006
+Edgar Allan Poe,both,0.6802489960301787
+Edgar Allan Poe,bring,0.7740500280962135
+Edgar Allan Poe,broken,0.7745863384910323
+Edgar Allan Poe,brought,0.7451144026185001
+Edgar Allan Poe,but,0.21279799795357754
+Edgar Allan Poe,by,0.23414852437596165
+Edgar Allan Poe,call,0.8439514692540234
+Edgar Allan Poe,called,0.8074802593746747
+Edgar Allan Poe,came,0.6048278312677968
+Edgar Allan Poe,can,0.6144105243421508
+Edgar Allan Poe,cannot,0.7696020219425467
+Edgar Allan Poe,care,0.7891090396216177
+Edgar Allan Poe,carefully,0.6815984502757754
+Edgar Allan Poe,case,0.6325092883711533
+Edgar Allan Poe,cause,0.9684680286837422
+Edgar Allan Poe,caused,0.8212239548632168
+Edgar Allan Poe,certain,0.8948059724191354
+Edgar Allan Poe,certainly,0.6418217414758314
+Edgar Allan Poe,chance,0.7647512463610004
+Edgar Allan Poe,character,0.979599553332057
+Edgar Allan Poe,circumstance,0.7115834463750511
+Edgar Allan Poe,circumstances,0.8775128067010961
+Edgar Allan Poe,clear,0.9092184128943259
+Edgar Allan Poe,close,0.6938555989303552
+Edgar Allan Poe,closed,0.9520342119201431
+Edgar Allan Poe,common,0.7869454967478255
+Edgar Allan Poe,conceived,0.7872931309610571
+Edgar Allan Poe,conception,0.7694274801065355
+Edgar Allan Poe,confess,0.8902580880456793
+Edgar Allan Poe,consideration,0.9126027640723265
+Edgar Allan Poe,considered,0.7737735326447401
+Edgar Allan Poe,contemplation,0.9932089369694473
+Edgar Allan Poe,continued,0.4565699027517316
+Edgar Allan Poe,could,0.43870738902460965
+Edgar Allan Poe,countenance,0.9583006286307957
+Edgar Allan Poe,course,0.7102311526935504
+Edgar Allan Poe,curiosity,0.8498364253602467
+Edgar Allan Poe,day,0.4208541224152818
+Edgar Allan Poe,days,0.8293731929776152
+Edgar Allan Poe,dead,0.767848876934279
+Edgar Allan Poe,deep,0.6267946494083169
+Edgar Allan Poe,definite,0.9091520381080689
+Edgar Allan Poe,delicate,0.9075912090529938
+Edgar Allan Poe,details,0.7889791845905126
+Edgar Allan Poe,did,0.40117055326893997
+Edgar Allan Poe,different,0.8783540798966245
+Edgar Allan Poe,difficulty,0.7606249396221596
+Edgar Allan Poe,direction,0.7820428224176805
+Edgar Allan Poe,directly,0.9855352300646936
+Edgar Allan Poe,disappeared,0.9925747113528833
+Edgar Allan Poe,discovered,0.46277178988139683
+Edgar Allan Poe,distinct,0.7363587243380055
+Edgar Allan Poe,distinctly,0.8039243186776174
+Edgar Allan Poe,do,0.8428533082237557
+Edgar Allan Poe,done,0.7473640314140831
+Edgar Allan Poe,doubt,0.44160401447549896
+Edgar Allan Poe,down,0.5945054308982458
+Edgar Allan Poe,dozen,0.8095069502445031
+Edgar Allan Poe,driven,0.9879026390937564
+Edgar Allan Poe,during,0.44159803167906636
+Edgar Allan Poe,each,0.5283558261432134
+Edgar Allan Poe,ear,0.9384507993302319
+Edgar Allan Poe,early,0.9510506381979351
+Edgar Allan Poe,ears,0.875760173866495
+Edgar Allan Poe,effect,0.5406022761242185
+Edgar Allan Poe,eight,0.8082469278811881
+Edgar Allan Poe,either,0.6648599113081465
+Edgar Allan Poe,else,0.9131494051628328
+Edgar Allan Poe,enabled,0.9446420902437626
+Edgar Allan Poe,end,0.6064613247003048
+Edgar Allan Poe,enough,0.9807810912943791
+Edgar Allan Poe,entered,0.7135550189950575
+Edgar Allan Poe,entirely,0.7934461543066381
+Edgar Allan Poe,especially,0.6482188108600103
+Edgar Allan Poe,even,0.3910035083483383
+Edgar Allan Poe,events,0.609184223145458
+Edgar Allan Poe,ever,0.5592082939971813
+Edgar Allan Poe,every,0.42774959822128295
+Edgar Allan Poe,evident,0.6751351914448197
+Edgar Allan Poe,evidently,0.8406809253034666
+Edgar Allan Poe,exceedingly,0.6902273326825605
+Edgar Allan Poe,excellent,0.9024079256539465
+Edgar Allan Poe,except,0.8120821844778563
+Edgar Allan Poe,exception,0.7760306393380357
+Edgar Allan Poe,excited,0.6943501145601888
+Edgar Allan Poe,exertion,0.8194627718757599
+Edgar Allan Poe,extent,0.9314018455680988
+Edgar Allan Poe,extraordinary,0.9151117041085838
+Edgar Allan Poe,extreme,0.6733089056581363
+Edgar Allan Poe,eye,0.9779608679335167
+Edgar Allan Poe,eyes,0.8551665345132844
+Edgar Allan Poe,face,0.5204636344860347
+Edgar Allan Poe,fact,0.7638993208516272
+Edgar Allan Poe,fail,0.9446040736535303
+Edgar Allan Poe,failed,0.800737172401341
+Edgar Allan Poe,far,0.4576632108565325
+Edgar Allan Poe,farther,0.8789610268053215
+Edgar Allan Poe,fate,0.8475667306727467
+Edgar Allan Poe,fear,0.7870994524798987
+Edgar Allan Poe,feel,0.8840422164117806
+Edgar Allan Poe,feet,0.7538585414758775
+Edgar Allan Poe,fell,0.8612027634276
+Edgar Allan Poe,felt,0.5418529494202282
+Edgar Allan Poe,few,0.29835792302515446
+Edgar Allan Poe,fifty,0.9823134152282627
+Edgar Allan Poe,filled,0.9011115160499977
+Edgar Allan Poe,finally,0.8668496410844733
+Edgar Allan Poe,find,0.5414921868780885
+Edgar Allan Poe,fine,0.9196638284931745
+Edgar Allan Poe,first,0.3189122966443776
+Edgar Allan Poe,five,0.9369759470960698
+Edgar Allan Poe,following,0.9358061855070716
+Edgar Allan Poe,foot,0.5093888882948042
+Edgar Allan Poe,for,0.19696194416161916
+Edgar Allan Poe,force,0.8718468271332276
+Edgar Allan Poe,forced,0.8021737097876621
+Edgar Allan Poe,forget,0.9104612925503803
+Edgar Allan Poe,form,0.810848137130966
+Edgar Allan Poe,former,0.5486180553095136
+Edgar Allan Poe,forth,0.9668488452628373
+Edgar Allan Poe,forward,0.9237799369244336
+Edgar Allan Poe,found,0.43971230113196386
+Edgar Allan Poe,four,0.8224973002728609
+Edgar Allan Poe,fourth,0.819984061461876
+Edgar Allan Poe,frequently,0.9964520855572213
+Edgar Allan Poe,friend,0.819367895671802
+Edgar Allan Poe,fro,0.935767573052082
+Edgar Allan Poe,from,0.31056766400666475
+Edgar Allan Poe,full,0.5583284794664536
+Edgar Allan Poe,fully,0.8877305718881063
+Edgar Allan Poe,gave,0.5257527261553159
+Edgar Allan Poe,generally,0.9414930243116688
+Edgar Allan Poe,get,0.799529856608283
+Edgar Allan Poe,give,0.6623830088962799
+Edgar Allan Poe,given,0.7895939755732839
+Edgar Allan Poe,giving,0.9113361884445564
+Edgar Allan Poe,glass,0.8650468316819783
+Edgar Allan Poe,god,0.8815472928845041
+Edgar Allan Poe,good,0.6970726110620579
+Edgar Allan Poe,great,0.47301920870673103
+Edgar Allan Poe,greater,0.8233260871099332
+Edgar Allan Poe,greatly,0.9535982906060865
+Edgar Allan Poe,had,0.38403903429729663
+Edgar Allan Poe,half,0.4579345486559436
+Edgar Allan Poe,hand,0.5633226785757968
+Edgar Allan Poe,hands,0.7120365929960797
+Edgar Allan Poe,has,0.7832721892892968
+Edgar Allan Poe,have,0.48285399342577756
+Edgar Allan Poe,having,0.5114458324648253
+Edgar Allan Poe,he,0.6935062009245143
+Edgar Allan Poe,head,0.5990409542263618
+Edgar Allan Poe,heard,0.9413667717601485
+Edgar Allan Poe,heart,0.7541799857496984
+Edgar Allan Poe,heavy,0.8438770496716951
+Edgar Allan Poe,help,0.8075504441238388
+Edgar Allan Poe,here,0.5592411933797387
+Edgar Allan Poe,high,0.6614434874112571
+Edgar Allan Poe,him,0.6670096351195923
+Edgar Allan Poe,himself,0.6828686887143735
+Edgar Allan Poe,his,0.5645538012886845
+Edgar Allan Poe,hitherto,0.9895846116978183
+Edgar Allan Poe,home,0.8379292069572334
+Edgar Allan Poe,horror,0.8157426505995659
+Edgar Allan Poe,hour,0.54480646644918
+Edgar Allan Poe,hours,0.5661085781931263
+Edgar Allan Poe,how,0.7711787625421087
+Edgar Allan Poe,however,0.3851163445119616
+Edgar Allan Poe,huge,0.987441658485757
+Edgar Allan Poe,human,0.621585841858905
+Edgar Allan Poe,hundred,0.9478120055567042
+Edgar Allan Poe,i,0.3609144116003528
+Edgar Allan Poe,idea,0.35881890380221976
+Edgar Allan Poe,if,0.38072115849347354
+Edgar Allan Poe,ill,0.7282054473337546
+Edgar Allan Poe,imagine,0.9271840212940894
+Edgar Allan Poe,immediately,0.8791585782973986
+Edgar Allan Poe,impossible,0.48804567718797015
+Edgar Allan Poe,in,0.11607716416101599
+Edgar Allan Poe,inches,0.9944086315093507
+Edgar Allan Poe,indeed,0.532572525400446
+Edgar Allan Poe,instance,0.5911340487630679
+Edgar Allan Poe,instant,0.7380710471038059
+Edgar Allan Poe,intense,0.786309895052724
+Edgar Allan Poe,interest,0.9234923581676517
+Edgar Allan Poe,into,0.37179398355668675
+Edgar Allan Poe,iron,0.9176094167668476
+Edgar Allan Poe,is,0.6626503386221186
+Edgar Allan Poe,it,0.1912312242648021
+Edgar Allan Poe,its,0.5536526937320514
+Edgar Allan Poe,itself,0.5952486357129717
+Edgar Allan Poe,just,0.537180688722495
+Edgar Allan Poe,keeping,0.8847723997838315
+Edgar Allan Poe,kind,0.5958038187253061
+Edgar Allan Poe,knew,0.9024390228569097
+Edgar Allan Poe,know,0.8242842112539595
+Edgar Allan Poe,large,0.5673344813405299
+Edgar Allan Poe,last,0.9706867024684472
+Edgar Allan Poe,late,0.6103569843418759
+Edgar Allan Poe,latter,0.4908592524025482
+Edgar Allan Poe,lay,0.646000317080249
+Edgar Allan Poe,least,0.4539625691895638
+Edgar Allan Poe,leaving,0.755085481401923
+Edgar Allan Poe,led,0.6728680248007943
+Edgar Allan Poe,left,0.5201887586145292
+Edgar Allan Poe,length,0.5411012565748321
+Edgar Allan Poe,less,0.5441218783317248
+Edgar Allan Poe,let,0.8403028918133905
+Edgar Allan Poe,letter,0.9858684075410772
+Edgar Allan Poe,life,0.9554913827200411
+Edgar Allan Poe,light,0.6808693035972597
+Edgar Allan Poe,like,0.50105167308636
+Edgar Allan Poe,line,0.5410225573961304
+Edgar Allan Poe,little,0.44426023924826696
+Edgar Allan Poe,living,0.9834931131575706
+Edgar Allan Poe,long,0.4172023803330031
+Edgar Allan Poe,longer,0.6688164654031967
+Edgar Allan Poe,look,0.852788327185604
+Edgar Allan Poe,looked,0.5020724662828612
+Edgar Allan Poe,looking,0.4812159571402394
+Edgar Allan Poe,lost,0.7368775698522584
+Edgar Allan Poe,lower,0.9471345482935432
+Edgar Allan Poe,made,0.3485432472487807
+Edgar Allan Poe,make,0.5185503808331272
+Edgar Allan Poe,man,0.9940397069500422
+Edgar Allan Poe,mankind,0.9796070373693622
+Edgar Allan Poe,manner,0.6962138192493564
+Edgar Allan Poe,many,0.628991940194244
+Edgar Allan Poe,matter,0.6712593202035942
+Edgar Allan Poe,matters,0.918691472176476
+Edgar Allan Poe,may,0.6287744962829095
+Edgar Allan Poe,me,0.44646653937009007
+Edgar Allan Poe,means,0.4651246160335163
+Edgar Allan Poe,measure,0.6693020166019282
+Edgar Allan Poe,meet,0.8730746487588502
+Edgar Allan Poe,men,0.9278218848156152
+Edgar Allan Poe,mentioned,0.8742185484207065
+Edgar Allan Poe,mere,0.7473750789682068
+Edgar Allan Poe,merely,0.6762980593094239
+Edgar Allan Poe,met,0.7236892642707229
+Edgar Allan Poe,middle,0.7695400300160423
+Edgar Allan Poe,might,0.46251589086608924
+Edgar Allan Poe,mind,0.4593422881605925
+Edgar Allan Poe,minute,0.7743244463462288
+Edgar Allan Poe,minutes,0.7541601957467442
+Edgar Allan Poe,moment,0.5435810070955849
+Edgar Allan Poe,more,0.37437071836107616
+Edgar Allan Poe,morning,0.9245566437697375
+Edgar Allan Poe,most,0.42128615225136307
+Edgar Allan Poe,mouth,0.6856983435043519
+Edgar Allan Poe,movement,0.9938682993943094
+Edgar Allan Poe,much,0.4051947585950687
+Edgar Allan Poe,must,0.535947299002576
+Edgar Allan Poe,my,0.4879409013889416
+Edgar Allan Poe,myself,0.38203904876602746
+Edgar Allan Poe,name,0.5551290234630326
+Edgar Allan Poe,narrow,0.6816784674537654
+Edgar Allan Poe,natural,0.7980753971351662
+Edgar Allan Poe,nature,0.827442864370595
+Edgar Allan Poe,near,0.8331400385930834
+Edgar Allan Poe,nearly,0.5105500466307649
+Edgar Allan Poe,necessary,0.7229848725014961
+Edgar Allan Poe,neither,0.8592891852269336
+Edgar Allan Poe,never,0.37405227435584
+Edgar Allan Poe,nevertheless,0.809250875042524
+Edgar Allan Poe,next,0.6663075811211917
+Edgar Allan Poe,night,0.7375610062314548
+Edgar Allan Poe,no,0.16452314320878683
+Edgar Allan Poe,none,0.7713553298895992
+Edgar Allan Poe,nor,0.7299143625398073
+Edgar Allan Poe,not,0.22881716332641375
+Edgar Allan Poe,nothing,0.4396497607310113
+Edgar Allan Poe,notice,0.9560503401662468
+Edgar Allan Poe,noticed,0.9150116342918398
+Edgar Allan Poe,now,0.3785325089995668
+Edgar Allan Poe,object,0.7995530240717347
+Edgar Allan Poe,objects,0.9023003115964043
+Edgar Allan Poe,observed,0.49122236633874483
+Edgar Allan Poe,obtain,0.9934366290595432
+Edgar Allan Poe,obtained,0.7630393874794449
+Edgar Allan Poe,occasioned,0.9150182145803953
+Edgar Allan Poe,occupied,0.7266367459313098
+Edgar Allan Poe,of,0.15693765998255746
+Edgar Allan Poe,off,0.5481298463471932
+Edgar Allan Poe,offered,0.8147771667391952
+Edgar Allan Poe,oh,0.9293040144763436
+Edgar Allan Poe,old,0.7982030775288499
+Edgar Allan Poe,on,0.48438974119757455
+Edgar Allan Poe,once,0.4026497398038077
+Edgar Allan Poe,one,0.22903965651194402
+Edgar Allan Poe,only,0.4262064362996513
+Edgar Allan Poe,opened,0.964490775017116
+Edgar Allan Poe,opposite,0.7640095805211633
+Edgar Allan Poe,or,0.3616292969510161
+Edgar Allan Poe,ordinary,0.6487575270897288
+Edgar Allan Poe,original,0.9717934938699847
+Edgar Allan Poe,other,0.364052603454306
+Edgar Allan Poe,others,0.8580250101784054
+Edgar Allan Poe,out,0.3622924403644024
+Edgar Allan Poe,over,0.4032961691891775
+Edgar Allan Poe,own,0.4316822208345273
+Edgar Allan Poe,part,0.5344815672028592
+Edgar Allan Poe,particulars,0.9210325621268586
+Edgar Allan Poe,pass,0.8666812350275646
+Edgar Allan Poe,passage,0.7832790492897398
+Edgar Allan Poe,passed,0.8073374669420157
+Edgar Allan Poe,past,0.9910608799095396
+Edgar Allan Poe,perceive,0.8129302669763533
+Edgar Allan Poe,perceived,0.686049634804337
+Edgar Allan Poe,perfect,0.801705463243452
+Edgar Allan Poe,perhaps,0.705422089719727
+Edgar Allan Poe,permitted,0.9638815274695928
+Edgar Allan Poe,person,0.6228699082715412
+Edgar Allan Poe,personal,0.8538860045029768
+Edgar Allan Poe,place,0.4591998870188428
+Edgar Allan Poe,placed,0.519802957287112
+Edgar Allan Poe,point,0.5923639367533422
+Edgar Allan Poe,points,0.9694479924271661
+Edgar Allan Poe,portion,0.6788632313765401
+Edgar Allan Poe,position,0.8364413257083532
+Edgar Allan Poe,possessed,0.9908649849425326
+Edgar Allan Poe,possession,0.8047029081216999
+Edgar Allan Poe,possible,0.640376003195455
+Edgar Allan Poe,power,0.8411235843150234
+Edgar Allan Poe,precisely,0.9550990038018357
+Edgar Allan Poe,prepared,0.687850692600999
+Edgar Allan Poe,present,0.5745300491868595
+Edgar Allan Poe,presented,0.8810524790736761
+Edgar Allan Poe,prevent,0.9879923030724206
+Edgar Allan Poe,proceeded,0.6043062735719963
+Edgar Allan Poe,proceeding,0.9922789903350265
+Edgar Allan Poe,properly,0.824014159533376
+Edgar Allan Poe,put,0.6824168105825811
+Edgar Allan Poe,quite,0.8857802556383725
+Edgar Allan Poe,ran,0.8167263887230336
+Edgar Allan Poe,rather,0.5277781669935774
+Edgar Allan Poe,reach,0.807454915411061
+Edgar Allan Poe,reached,0.847369731859136
+Edgar Allan Poe,reason,0.7496565770661485
+Edgar Allan Poe,recovered,0.8722398279171827
+Edgar Allan Poe,red,0.8776947754088342
+Edgar Allan Poe,reflection,0.7024549417115573
+Edgar Allan Poe,regard,0.7045500009234326
+Edgar Allan Poe,regarded,0.8359840104236859
+Edgar Allan Poe,remain,0.8763427958872991
+Edgar Allan Poe,remained,0.815941984649538
+Edgar Allan Poe,remember,0.8873901566361452
+Edgar Allan Poe,remote,0.9819248069745192
+Edgar Allan Poe,respect,0.7016510519482992
+Edgar Allan Poe,result,0.7077637519716271
+Edgar Allan Poe,right,0.7184164089628814
+Edgar Allan Poe,room,0.9385260158550506
+Edgar Allan Poe,running,0.9683585560991349
+Edgar Allan Poe,said,0.8244248426872876
+Edgar Allan Poe,same,0.42993200473075305
+Edgar Allan Poe,saw,0.7808771026865872
+Edgar Allan Poe,say,0.4845352238186554
+Edgar Allan Poe,scarcely,0.6602711627587258
+Edgar Allan Poe,second,0.5992517873599849
+Edgar Allan Poe,secured,0.968352565894281
+Edgar Allan Poe,see,0.5245783543168512
+Edgar Allan Poe,seemed,0.6847218042474298
+Edgar Allan Poe,seen,0.5551603527935625
+Edgar Allan Poe,seized,0.8250217255018903
+Edgar Allan Poe,self,0.8500266897485009
+Edgar Allan Poe,series,0.7742862499739936
+Edgar Allan Poe,served,0.9921777911532871
+Edgar Allan Poe,set,0.9059246278005281
+Edgar Allan Poe,seven,0.9932807450919725
+Edgar Allan Poe,several,0.7918025895835463
+Edgar Allan Poe,shall,0.6854165340052495
+Edgar Allan Poe,short,0.8161412458506413
+Edgar Allan Poe,should,0.40161068146192164
+Edgar Allan Poe,shoulders,0.9184262022699216
+Edgar Allan Poe,side,0.7208554148685405
+Edgar Allan Poe,sight,0.9118713875165096
+Edgar Allan Poe,similar,0.6739231339695462
+Edgar Allan Poe,since,0.7506477677767373
+Edgar Allan Poe,single,0.8088692419808019
+Edgar Allan Poe,singular,0.5487430527938342
+Edgar Allan Poe,six,0.9807890016154024
+Edgar Allan Poe,size,0.988540345883222
+Edgar Allan Poe,slightest,0.7346933034444451
+Edgar Allan Poe,small,0.522310722161991
+Edgar Allan Poe,so,0.25626394291047055
+Edgar Allan Poe,some,0.2883973040042033
+Edgar Allan Poe,something,0.6925527721321558
+Edgar Allan Poe,somewhat,0.626984328643821
+Edgar Allan Poe,soon,0.6747190804922828
+Edgar Allan Poe,speak,0.6454327981354986
+Edgar Allan Poe,speaking,0.9651166718280701
+Edgar Allan Poe,species,0.9439143795779102
+Edgar Allan Poe,spoke,0.8761400300821627
+Edgar Allan Poe,spoken,0.9055111877551784
+Edgar Allan Poe,state,0.9020916070491467
+Edgar Allan Poe,steadily,0.788748984706308
+Edgar Allan Poe,steps,0.8005506213654769
+Edgar Allan Poe,still,0.5002081634164709
+Edgar Allan Poe,stood,0.7765886971285693
+Edgar Allan Poe,strange,0.6476922119494855
+Edgar Allan Poe,strong,0.6954226021524655
+Edgar Allan Poe,struggles,0.9092564421879362
+Edgar Allan Poe,subject,0.6139835206928078
+Edgar Allan Poe,succeeded,0.9474812604974652
+Edgar Allan Poe,such,0.22185677817095756
+Edgar Allan Poe,suddenly,0.9670977744077103
+Edgar Allan Poe,suffered,0.8446747705800485
+Edgar Allan Poe,sufficient,0.8402653710514848
+Edgar Allan Poe,sufficiently,0.6787914431790324
+Edgar Allan Poe,sure,0.9524288198309638
+Edgar Allan Poe,surely,0.988591355677071
+Edgar Allan Poe,take,0.5269584742774936
+Edgar Allan Poe,taken,0.7357877594478295
+Edgar Allan Poe,taking,0.9401646205222359
+Edgar Allan Poe,teeth,0.7327814456802778
+Edgar Allan Poe,ten,0.5574441433341035
+Edgar Allan Poe,terms,0.9890839165716171
+Edgar Allan Poe,than,0.31568903955208577
+Edgar Allan Poe,that,0.18279307773960254
+Edgar Allan Poe,the,0.1352574686796576
+Edgar Allan Poe,their,0.529561250647551
+Edgar Allan Poe,them,0.55538134578209
+Edgar Allan Poe,themselves,0.5235961894268106
+Edgar Allan Poe,then,0.43754034023888955
+Edgar Allan Poe,there,0.32549587511459027
+Edgar Allan Poe,therefore,0.6466465929032977
+Edgar Allan Poe,these,0.34093055247547893
+Edgar Allan Poe,they,0.573055105135994
+Edgar Allan Poe,thing,0.799878231361843
+Edgar Allan Poe,things,0.7484066684525693
+Edgar Allan Poe,think,0.47687540949838414
+Edgar Allan Poe,thinking,0.721857191278169
+Edgar Allan Poe,third,0.59896067695839
+Edgar Allan Poe,this,0.20874436134779445
+Edgar Allan Poe,thoroughly,0.9404703799139671
+Edgar Allan Poe,those,0.6592464135477
+Edgar Allan Poe,thought,0.42879359341397927
+Edgar Allan Poe,thousand,0.8219072650581325
+Edgar Allan Poe,three,0.6882673644994654
+Edgar Allan Poe,through,0.40430811729030974
+Edgar Allan Poe,throw,0.8723699190447483
+Edgar Allan Poe,thrown,0.9681164414461397
+Edgar Allan Poe,thus,0.3760956462734214
+Edgar Allan Poe,time,0.429220109277321
+Edgar Allan Poe,times,0.4881094415055214
+Edgar Allan Poe,to,0.1439413632273817
+Edgar Allan Poe,together,0.6477117097970235
+Edgar Allan Poe,too,0.6446141557936838
+Edgar Allan Poe,took,0.5220330286063882
+Edgar Allan Poe,top,0.8922011711447398
+Edgar Allan Poe,trouble,0.5778957690950375
+Edgar Allan Poe,true,0.9437607259094032
+Edgar Allan Poe,turn,0.7648822488349079
+Edgar Allan Poe,turned,0.5852498900915134
+Edgar Allan Poe,twenty,0.7616927028887251
+Edgar Allan Poe,two,0.4532529676350092
+Edgar Allan Poe,unaccountable,0.874180326797045
+Edgar Allan Poe,under,0.4869604974612628
+Edgar Allan Poe,understand,0.9113936829388515
+Edgar Allan Poe,unless,0.8244132394676853
+Edgar Allan Poe,until,0.5570037618278068
+Edgar Allan Poe,up,0.47419545925234424
+Edgar Allan Poe,upon,0.3426873806137645
+Edgar Allan Poe,upper,0.917825343149808
+Edgar Allan Poe,usual,0.8527053880998102
+Edgar Allan Poe,usually,0.8486243919479849
+Edgar Allan Poe,utterly,0.8172603613084245
+Edgar Allan Poe,vain,0.8366475681514853
+Edgar Allan Poe,vast,0.9444186319602683
+Edgar Allan Poe,very,0.4044908988061986
+Edgar Allan Poe,view,0.4966847844547157
+Edgar Allan Poe,voyage,0.9511030862033361
+Edgar Allan Poe,was,0.17764059964852355
+Edgar Allan Poe,way,0.5195876563313654
+Edgar Allan Poe,well,0.5702608302404036
+Edgar Allan Poe,went,0.7108272043069825
+Edgar Allan Poe,were,0.5303449687221347
+Edgar Allan Poe,what,0.4292344301231145
+Edgar Allan Poe,whatever,0.7009092094503588
+Edgar Allan Poe,when,0.3735409641953205
+Edgar Allan Poe,where,0.4909368502440231
+Edgar Allan Poe,whether,0.8532818427963423
+Edgar Allan Poe,which,0.18591509015873717
+Edgar Allan Poe,while,0.41757448961298205
+Edgar Allan Poe,white,0.8870507989747346
+Edgar Allan Poe,who,0.48558570172657606
+Edgar Allan Poe,whole,0.46757040299710156
+Edgar Allan Poe,whom,0.7126495577902533
+Edgar Allan Poe,whose,0.7255479047384318
+Edgar Allan Poe,why,0.9430575505093518
+Edgar Allan Poe,will,0.7902261177616582
+Edgar Allan Poe,with,0.16542414134992403
+Edgar Allan Poe,within,0.7288718663728911
+Edgar Allan Poe,without,0.4265274984021259
+Edgar Allan Poe,wonder,0.7439897838349647
+Edgar Allan Poe,wood,0.9408131069026541
+Edgar Allan Poe,word,0.5151164770016944
+Edgar Allan Poe,words,0.6723628729806914
+Edgar Allan Poe,work,0.9591392662259954
+Edgar Allan Poe,world,0.7292773067668871
+Edgar Allan Poe,would,0.5511920262697472
+Edgar Allan Poe,year,0.7672293510184821
+Edgar Allan Poe,years,0.8008529265914751
+Edgar Allan Poe,yet,0.666354251783494
+Henry David Thoreau,a,0.12708993249190073
+Henry David Thoreau,about,0.4886778925644451
+Henry David Thoreau,above,0.489143788379942
+Henry David Thoreau,according,0.7197954887823439
+Henry David Thoreau,account,0.9258309205975279
+Henry David Thoreau,acres,0.9823565196039851
+Henry David Thoreau,across,0.5278866522939574
+Henry David Thoreau,after,0.4249715383448833
+Henry David Thoreau,afterward,0.9888392405479998
+Henry David Thoreau,again,0.5611488457781995
+Henry David Thoreau,against,0.6545637334568111
+Henry David Thoreau,ago,0.8896062222905855
+Henry David Thoreau,air,0.8088924976245084
+Henry David Thoreau,alive,0.9663135630036153
+Henry David Thoreau,all,0.30070016874293126
+Henry David Thoreau,almost,0.5117823532048044
+Henry David Thoreau,alone,0.8924928497410739
+Henry David Thoreau,along,0.7174305335903095
+Henry David Thoreau,already,0.7750873734974542
+Henry David Thoreau,also,0.5801669861461746
+Henry David Thoreau,always,0.6327862676994288
+Henry David Thoreau,amid,0.5782514930211018
+Henry David Thoreau,among,0.8333516255753443
+Henry David Thoreau,an,0.18570392669050786
+Henry David Thoreau,and,0.13013928365411043
+Henry David Thoreau,another,0.43722781552391676
+Henry David Thoreau,answered,0.9871950517703354
+Henry David Thoreau,any,0.4692372375285885
+Henry David Thoreau,appearance,0.9826825180750057
+Henry David Thoreau,appeared,0.6014157729737746
+Henry David Thoreau,approached,0.8159090676764639
+Henry David Thoreau,are,0.44681786766988035
+Henry David Thoreau,arms,0.8000129360537435
+Henry David Thoreau,around,0.8223609125003741
+Henry David Thoreau,as,0.1355314779585204
+Henry David Thoreau,at,0.22916681549663634
+Henry David Thoreau,awake,0.7700603152935613
+Henry David Thoreau,away,0.5065481540018122
+Henry David Thoreau,back,0.6121088083062528
+Henry David Thoreau,bank,0.7767487948525198
+Henry David Thoreau,banks,0.9635540630152153
+Henry David Thoreau,bare,0.583383216330796
+Henry David Thoreau,be,0.2809933849341261
+Henry David Thoreau,bear,0.9755764650052929
+Henry David Thoreau,beautiful,0.8404822433466123
+Henry David Thoreau,became,0.9433647795781493
+Henry David Thoreau,because,0.5280619236189085
+Henry David Thoreau,bed,0.7116969219021391
+Henry David Thoreau,been,0.38709323192617046
+Henry David Thoreau,before,0.35158038463852836
+Henry David Thoreau,began,0.5451847686848939
+Henry David Thoreau,beginning,0.7318431821075521
+Henry David Thoreau,behind,0.6801412927491135
+Henry David Thoreau,being,0.4082334596424107
+Henry David Thoreau,beneath,0.9823908747384456
+Henry David Thoreau,best,0.7880869223860023
+Henry David Thoreau,better,0.8614303379764962
+Henry David Thoreau,between,0.45470498129217757
+Henry David Thoreau,beyond,0.7059035215133873
+Henry David Thoreau,bird,0.8263509374545602
+Henry David Thoreau,birds,0.8430515874104416
+Henry David Thoreau,body,0.9241206581257665
+Henry David Thoreau,both,0.507013236170454
+Henry David Thoreau,break,0.9107321235537863
+Henry David Thoreau,breath,0.8227824080714122
+Henry David Thoreau,bright,0.7369637593046848
+Henry David Thoreau,bring,0.9103777681598728
+Henry David Thoreau,broad,0.7457346888519765
+Henry David Thoreau,broken,0.8171066677562255
+Henry David Thoreau,brought,0.5254987290516623
+Henry David Thoreau,bushes,0.8725429843355927
+Henry David Thoreau,but,0.1391580313389749
+Henry David Thoreau,by,0.15864548052133262
+Henry David Thoreau,call,0.6806784208270941
+Henry David Thoreau,called,0.6254060431674605
+Henry David Thoreau,came,0.5897167619331423
+Henry David Thoreau,can,0.4794238254318523
+Henry David Thoreau,cannot,0.8542381007902713
+Henry David Thoreau,carried,0.8445078877697715
+Henry David Thoreau,case,0.7187563834966002
+Henry David Thoreau,cast,0.9690157017958284
+Henry David Thoreau,caught,0.9105413531039701
+Henry David Thoreau,chiefly,0.8081811411937285
+Henry David Thoreau,clear,0.7075366598687063
+Henry David Thoreau,color,0.9829435002486288
+Henry David Thoreau,come,0.46551084108792673
+Henry David Thoreau,comes,0.7685771224194088
+Henry David Thoreau,coming,0.8803947443819963
+Henry David Thoreau,common,0.7346803483359183
+Henry David Thoreau,commonly,0.6096992808676651
+Henry David Thoreau,concealed,0.9118404555941884
+Henry David Thoreau,concord,0.9346412501200694
+Henry David Thoreau,cool,0.9525594219031236
+Henry David Thoreau,could,0.511483271991117
+Henry David Thoreau,country,0.7096430871054605
+Henry David Thoreau,course,0.5529330143307939
+Henry David Thoreau,covered,0.6577539868454145
+Henry David Thoreau,crossing,0.8770006595146895
+Henry David Thoreau,cut,0.671455169936437
+Henry David Thoreau,cutting,0.9376104093673069
+Henry David Thoreau,dark,0.6169893116420511
+Henry David Thoreau,day,0.4422443021092981
+Henry David Thoreau,days,0.7471756848588216
+Henry David Thoreau,dead,0.6413287125512847
+Henry David Thoreau,deal,0.9677051279159865
+Henry David Thoreau,deep,0.8794083453007566
+Henry David Thoreau,did,0.49754966153834024
+Henry David Thoreau,different,0.9203023026771998
+Henry David Thoreau,dinner,0.8659509776179444
+Henry David Thoreau,directly,0.8940927161625267
+Henry David Thoreau,discover,0.9890292351506387
+Henry David Thoreau,distance,0.6626852077381403
+Henry David Thoreau,distant,0.6079338884887862
+Henry David Thoreau,distinguished,0.8022910475223392
+Henry David Thoreau,do,0.5213244183667918
+Henry David Thoreau,does,0.9243208475187388
+Henry David Thoreau,done,0.7136955551947535
+Henry David Thoreau,door,0.9455231188351432
+Henry David Thoreau,doubt,0.6789141382591404
+Henry David Thoreau,down,0.566276557161704
+Henry David Thoreau,dozen,0.871049983608938
+Henry David Thoreau,driven,0.8210316601239668
+Henry David Thoreau,dry,0.6310353610971736
+Henry David Thoreau,during,0.9321561702359599
+Henry David Thoreau,each,0.5356397898329153
+Henry David Thoreau,ear,0.7866791888257181
+Henry David Thoreau,early,0.8424746081209664
+Henry David Thoreau,ears,0.9220224734303184
+Henry David Thoreau,earth,0.9203298139044107
+Henry David Thoreau,easily,0.8222468348904659
+Henry David Thoreau,east,0.7623678641293544
+Henry David Thoreau,eastern,0.7588851532937178
+Henry David Thoreau,easy,0.8236431012424971
+Henry David Thoreau,edge,0.926414604993127
+Henry David Thoreau,effect,0.9116279481863255
+Henry David Thoreau,either,0.48741536941327507
+Henry David Thoreau,else,0.581540957077833
+Henry David Thoreau,end,0.6939219264676119
+Henry David Thoreau,england,0.9152452874565913
+Henry David Thoreau,enough,0.31599107627684975
+Henry David Thoreau,ere,0.8745560231192271
+Henry David Thoreau,especially,0.764764177631332
+Henry David Thoreau,even,0.4957741241846368
+Henry David Thoreau,evening,0.6700927325217463
+Henry David Thoreau,ever,0.653826564016159
+Henry David Thoreau,every,0.551888407867507
+Henry David Thoreau,exactly,0.9748845328977962
+Henry David Thoreau,except,0.8012947785641809
+Henry David Thoreau,expected,0.9979338790825665
+Henry David Thoreau,experience,0.6669376384258028
+Henry David Thoreau,experienced,0.9201902722557306
+Henry David Thoreau,extent,0.816112565239537
+Henry David Thoreau,eyes,0.5227653015283994
+Henry David Thoreau,face,0.9481146358396005
+Henry David Thoreau,fact,0.9523702310973917
+Henry David Thoreau,faint,0.8770316561209867
+Henry David Thoreau,fair,0.9339993025822608
+Henry David Thoreau,fall,0.6655323720422086
+Henry David Thoreau,falling,0.910849548477166
+Henry David Thoreau,familiar,0.9207916965425409
+Henry David Thoreau,far,0.3633778085273133
+Henry David Thoreau,farther,0.635308306583815
+Henry David Thoreau,fear,0.9392925452471983
+Henry David Thoreau,feel,0.9915408891851524
+Henry David Thoreau,feet,0.7698888379518234
+Henry David Thoreau,fell,0.8081192274801652
+Henry David Thoreau,felt,0.7859967543491121
+Henry David Thoreau,few,0.3575547304229049
+Henry David Thoreau,field,0.9466172605567903
+Henry David Thoreau,fields,0.6907334324186049
+Henry David Thoreau,fifteen,0.9290293578812425
+Henry David Thoreau,fifty,0.6869689265581749
+Henry David Thoreau,filled,0.8373591945788702
+Henry David Thoreau,finally,0.9389167474180794
+Henry David Thoreau,find,0.6040896073757491
+Henry David Thoreau,fine,0.8789758165832074
+Henry David Thoreau,first,0.3438346049088045
+Henry David Thoreau,fit,0.8163387058865496
+Henry David Thoreau,five,0.6470432660332626
+Henry David Thoreau,flat,0.7708780507501124
+Henry David Thoreau,floating,0.9465039477727049
+Henry David Thoreau,follow,0.9405865309545863
+Henry David Thoreau,followed,0.820481614881269
+Henry David Thoreau,following,0.8498555744046326
+Henry David Thoreau,foot,0.800994592372382
+Henry David Thoreau,for,0.22882796684605333
+Henry David Thoreau,form,0.9291364322191721
+Henry David Thoreau,formed,0.8217472444060857
+Henry David Thoreau,former,0.7968956188046531
+Henry David Thoreau,formerly,0.941326998489138
+Henry David Thoreau,found,0.5930687215666077
+Henry David Thoreau,four,0.7387188743802393
+Henry David Thoreau,frequently,0.766594578900704
+Henry David Thoreau,fresh,0.8742090636522709
+Henry David Thoreau,from,0.2020544859302037
+Henry David Thoreau,fruit,0.6747560428893549
+Henry David Thoreau,full,0.5469534010004413
+Henry David Thoreau,gave,0.70717811264922
+Henry David Thoreau,general,0.9237342703047579
+Henry David Thoreau,get,0.46244344990637304
+Henry David Thoreau,getting,0.9168239520487269
+Henry David Thoreau,give,0.7178398662048546
+Henry David Thoreau,given,0.8430530506697156
+Henry David Thoreau,go,0.8677003123959807
+Henry David Thoreau,going,0.7889769901538225
+Henry David Thoreau,gone,0.663983573344154
+Henry David Thoreau,good,0.6753451600733368
+Henry David Thoreau,got,0.5784377098759179
+Henry David Thoreau,great,0.40884337704268847
+Henry David Thoreau,greater,0.7718686344858648
+Henry David Thoreau,green,0.6022784171326235
+Henry David Thoreau,grew,0.8678741590395613
+Henry David Thoreau,ground,0.4472449131970382
+Henry David Thoreau,growing,0.9225222922075567
+Henry David Thoreau,grown,0.8782863545241216
+Henry David Thoreau,had,0.3879743056676756
+Henry David Thoreau,half,0.6119050515717775
+Henry David Thoreau,hand,0.6013744016634516
+Henry David Thoreau,hands,0.6599688327754011
+Henry David Thoreau,handsome,0.8240633564078104
+Henry David Thoreau,hard,0.8418910371977814
+Henry David Thoreau,hardly,0.6012277011933143
+Henry David Thoreau,has,0.4850830150542372
+Henry David Thoreau,haste,0.8029879815365355
+Henry David Thoreau,have,0.31959643622736267
+Henry David Thoreau,having,0.5756977101604042
+Henry David Thoreau,he,0.589444536015491
+Henry David Thoreau,head,0.5408512369361372
+Henry David Thoreau,heads,0.6828091470821562
+Henry David Thoreau,hear,0.6259246153870818
+Henry David Thoreau,heard,0.6310949684408373
+Henry David Thoreau,heaven,0.8646721809251132
+Henry David Thoreau,held,0.9685513966119518
+Henry David Thoreau,hence,0.9230212578685686
+Henry David Thoreau,her,0.8188221424083839
+Henry David Thoreau,here,0.5163732710353663
+Henry David Thoreau,high,0.7413174911968992
+Henry David Thoreau,higher,0.7517568532895519
+Henry David Thoreau,hill,0.7017669716072538
+Henry David Thoreau,hills,0.88319192694861
+Henry David Thoreau,him,0.7189965127498625
+Henry David Thoreau,himself,0.6899158212008805
+Henry David Thoreau,his,0.30477599659562465
+Henry David Thoreau,hold,0.685988894285326
+Henry David Thoreau,home,0.6329926254895827
+Henry David Thoreau,horse,0.9118956759011683
+Henry David Thoreau,horses,0.9461843764062766
+Henry David Thoreau,hour,0.6796488848666293
+Henry David Thoreau,how,0.32046703056860165
+Henry David Thoreau,however,0.6965161483799455
+Henry David Thoreau,human,0.8342730457239541
+Henry David Thoreau,hundred,0.7841402399628614
+Henry David Thoreau,i,0.5129577506225651
+Henry David Thoreau,if,0.25147838870200884
+Henry David Thoreau,in,0.10117140386208893
+Henry David Thoreau,indeed,0.6058529170922876
+Henry David Thoreau,indians,0.886453357150135
+Henry David Thoreau,industry,0.9108515602444652
+Henry David Thoreau,instance,0.8822200043853577
+Henry David Thoreau,interesting,0.802890099996602
+Henry David Thoreau,intervals,0.9646411778165433
+Henry David Thoreau,into,0.41498382770612957
+Henry David Thoreau,is,0.38947319262462493
+Henry David Thoreau,island,0.82387394087432
+Henry David Thoreau,islands,0.9654051314713454
+Henry David Thoreau,it,0.2120210221706162
+Henry David Thoreau,its,0.5513145021795411
+Henry David Thoreau,itself,0.8854167958238157
+Henry David Thoreau,just,0.7431280567267964
+Henry David Thoreau,keep,0.9838048572737009
+Henry David Thoreau,kept,0.7991382109598221
+Henry David Thoreau,kind,0.5717429202057467
+Henry David Thoreau,knew,0.8757881465991687
+Henry David Thoreau,know,0.5445007488093255
+Henry David Thoreau,known,0.851570909236444
+Henry David Thoreau,knows,0.969309059688647
+Henry David Thoreau,laid,0.8208070203356773
+Henry David Thoreau,land,0.6974536297512131
+Henry David Thoreau,large,0.7091965114701805
+Henry David Thoreau,larger,0.6728172159972405
+Henry David Thoreau,last,0.4595813561212288
+Henry David Thoreau,late,0.9155093293221632
+Henry David Thoreau,latter,0.7472330957274337
+Henry David Thoreau,lay,0.8417309320528352
+Henry David Thoreau,learn,0.9160310866430648
+Henry David Thoreau,learned,0.834714703750271
+Henry David Thoreau,least,0.5258661321362542
+Henry David Thoreau,leave,0.6648320756321301
+Henry David Thoreau,leaves,0.9695619083531575
+Henry David Thoreau,leaving,0.9115517791912375
+Henry David Thoreau,left,0.39511366942763
+Henry David Thoreau,length,0.4037955488327273
+Henry David Thoreau,less,0.626457083512073
+Henry David Thoreau,let,0.6594091107727995
+Henry David Thoreau,level,0.9865277533695389
+Henry David Thoreau,lie,0.6336049522335008
+Henry David Thoreau,life,0.7808149972602441
+Henry David Thoreau,like,0.33894568983148543
+Henry David Thoreau,little,0.30111936712768694
+Henry David Thoreau,live,0.8086287339545968
+Henry David Thoreau,lived,0.8869350844994066
+Henry David Thoreau,lives,0.9118352681713382
+Henry David Thoreau,living,0.8242438754631219
+Henry David Thoreau,log,0.9915628917064346
+Henry David Thoreau,long,0.3369346907995231
+Henry David Thoreau,longer,0.9664065475313517
+Henry David Thoreau,look,0.41770482066077486
+Henry David Thoreau,looked,0.5692602765369374
+Henry David Thoreau,looking,0.7248465816984951
+Henry David Thoreau,loud,0.9655782278025148
+Henry David Thoreau,low,0.6972283077940126
+Henry David Thoreau,lower,0.9915658237598087
+Henry David Thoreau,lying,0.9002916029746807
+Henry David Thoreau,made,0.2871498815514946
+Henry David Thoreau,main,0.896862704843334
+Henry David Thoreau,make,0.38317043116072
+Henry David Thoreau,makes,0.7410141752819852
+Henry David Thoreau,making,0.6344000209599486
+Henry David Thoreau,man,0.524556164673179
+Henry David Thoreau,many,0.48028212692933486
+Henry David Thoreau,mark,0.9225533502002031
+Henry David Thoreau,matter,0.9117754088332608
+Henry David Thoreau,may,0.3718466912731807
+Henry David Thoreau,me,0.6508849559159888
+Henry David Thoreau,meaning,0.9893068297175361
+Henry David Thoreau,meet,0.6060185148822884
+Henry David Thoreau,men,0.6442280676325561
+Henry David Thoreau,mere,0.7005032803442615
+Henry David Thoreau,merely,0.9619308531729069
+Henry David Thoreau,met,0.9737602095779264
+Henry David Thoreau,midst,0.6659320356044909
+Henry David Thoreau,might,0.38468278995325045
+Henry David Thoreau,mile,0.7262884767164846
+Henry David Thoreau,miles,0.871297065637791
+Henry David Thoreau,mind,0.9603914357599275
+Henry David Thoreau,moment,0.9231672004914925
+Henry David Thoreau,more,0.259689654503006
+Henry David Thoreau,morning,0.4965319387191946
+Henry David Thoreau,most,0.5972887945472708
+Henry David Thoreau,much,0.37605644844433767
+Henry David Thoreau,must,0.45055357577786564
+Henry David Thoreau,my,0.7639286562489982
+Henry David Thoreau,name,0.6333653664136767
+Henry David Thoreau,natural,0.8960201718255151
+Henry David Thoreau,nature,0.998697750013335
+Henry David Thoreau,near,0.5331058993553097
+Henry David Thoreau,nearer,0.9008101189380654
+Henry David Thoreau,nearest,0.9509670832604417
+Henry David Thoreau,nearly,0.9189258938942046
+Henry David Thoreau,need,0.7396090200344762
+Henry David Thoreau,neither,0.8033432557993547
+Henry David Thoreau,never,0.6770666503757516
+Henry David Thoreau,nevertheless,0.999426355598922
+Henry David Thoreau,new,0.6620980278980206
+Henry David Thoreau,next,0.6555772268220282
+Henry David Thoreau,night,0.5216990869068538
+Henry David Thoreau,no,0.33218205363227876
+Henry David Thoreau,none,0.6083600100536601
+Henry David Thoreau,nor,0.5357314951511585
+Henry David Thoreau,not,0.22263459911041997
+Henry David Thoreau,nothing,0.6009162523787672
+Henry David Thoreau,noticed,0.8080229434637358
+Henry David Thoreau,notwithstanding,0.9508491473468867
+Henry David Thoreau,now,0.37093473064643684
+Henry David Thoreau,number,0.8718225921312923
+Henry David Thoreau,oaks,0.8935805169183865
+Henry David Thoreau,object,0.8225262360543839
+Henry David Thoreau,obliged,0.9789741889089991
+Henry David Thoreau,observed,0.6731028808478821
+Henry David Thoreau,of,0.15304746411981957
+Henry David Thoreau,off,0.5484299467553558
+Henry David Thoreau,often,0.7523945605651939
+Henry David Thoreau,old,0.8700087872291008
+Henry David Thoreau,on,0.25568928623528236
+Henry David Thoreau,once,0.3899728362513229
+Henry David Thoreau,one,0.2529059783064619
+Henry David Thoreau,ones,0.8219924856781524
+Henry David Thoreau,only,0.3224418321511314
+Henry David Thoreau,open,0.8409079279096827
+Henry David Thoreau,opposite,0.8761234393945233
+Henry David Thoreau,or,0.19665623697026383
+Henry David Thoreau,order,0.8975035071941039
+Henry David Thoreau,other,0.32055767053592704
+Henry David Thoreau,others,0.5660368204407743
+Henry David Thoreau,our,0.5330787771059367
+Henry David Thoreau,out,0.33413822954269856
+Henry David Thoreau,over,0.4180046847530805
+Henry David Thoreau,own,0.5947283073832551
+Henry David Thoreau,part,0.41371251531039077
+Henry David Thoreau,particular,0.7915390913115041
+Henry David Thoreau,particularly,0.7671818327726523
+Henry David Thoreau,pass,0.8000515546086906
+Henry David Thoreau,passed,0.44740640924699043
+Henry David Thoreau,peculiar,0.9117211233603165
+Henry David Thoreau,perchance,0.6554233372157453
+Henry David Thoreau,perhaps,0.538879309081127
+Henry David Thoreau,piece,0.8375299681378597
+Henry David Thoreau,pine,0.8883470327397449
+Henry David Thoreau,pines,0.692688998479343
+Henry David Thoreau,pitch,0.9521222084326143
+Henry David Thoreau,place,0.4663761704837498
+Henry David Thoreau,places,0.8353908279981066
+Henry David Thoreau,pleasant,0.9312302996968217
+Henry David Thoreau,point,0.859051196314182
+Henry David Thoreau,poor,0.9074715199157696
+Henry David Thoreau,portion,0.9985561908643669
+Henry David Thoreau,possible,0.9322934129948087
+Henry David Thoreau,preparing,0.9108494906312675
+Henry David Thoreau,probably,0.7472123613615591
+Henry David Thoreau,proportion,0.9681041534247034
+Henry David Thoreau,proved,0.9646395204841586
+Henry David Thoreau,public,0.9907141476391164
+Henry David Thoreau,put,0.5914133500909807
+Henry David Thoreau,quarter,0.7873094490463742
+Henry David Thoreau,quite,0.7922388270703863
+Henry David Thoreau,race,0.7861074930709216
+Henry David Thoreau,rain,0.9349893734478975
+Henry David Thoreau,ran,0.8539577804868517
+Henry David Thoreau,rarely,0.909153729887954
+Henry David Thoreau,rate,0.9010014662011723
+Henry David Thoreau,rather,0.6207544743501564
+Henry David Thoreau,reached,0.796772147389512
+Henry David Thoreau,reaching,0.9220118940476786
+Henry David Thoreau,read,0.9401421639196239
+Henry David Thoreau,ready,0.8183107814871666
+Henry David Thoreau,reason,0.8300394799325972
+Henry David Thoreau,receive,0.9108544779850659
+Henry David Thoreau,remarkable,0.8481454634910949
+Henry David Thoreau,remember,0.7354792647575947
+Henry David Thoreau,remembered,0.9676506601047676
+Henry David Thoreau,reminded,0.9736063934801835
+Henry David Thoreau,rest,0.6856985619971361
+Henry David Thoreau,return,0.7460305867034579
+Henry David Thoreau,right,0.7488917326060001
+Henry David Thoreau,rising,0.7368980712485587
+Henry David Thoreau,road,0.562368947659237
+Henry David Thoreau,rods,0.925925963903665
+Henry David Thoreau,rose,0.7708009342149003
+Henry David Thoreau,round,0.6324866194410366
+Henry David Thoreau,rude,0.8218882586047415
+Henry David Thoreau,run,0.796583855824862
+Henry David Thoreau,running,0.6684900063437053
+Henry David Thoreau,said,0.9290472558777187
+Henry David Thoreau,sailing,0.8219288589712297
+Henry David Thoreau,same,0.37952445627588244
+Henry David Thoreau,sat,0.6049500174456858
+Henry David Thoreau,saw,0.8516336093840562
+Henry David Thoreau,say,0.5204805010063857
+Henry David Thoreau,says,0.9300411100386147
+Henry David Thoreau,season,0.8834989892149916
+Henry David Thoreau,see,0.3479841537589764
+Henry David Thoreau,seemed,0.5574446535357175
+Henry David Thoreau,seen,0.42411502354933356
+Henry David Thoreau,sent,0.9217578036644538
+Henry David Thoreau,served,0.7702428107330958
+Henry David Thoreau,set,0.597487414641752
+Henry David Thoreau,seven,0.7112679451313387
+Henry David Thoreau,several,0.6897708033830675
+Henry David Thoreau,shall,0.9004296843257763
+Henry David Thoreau,she,0.9560141234657616
+Henry David Thoreau,shore,0.536455701241467
+Henry David Thoreau,shores,0.8905620126392408
+Henry David Thoreau,short,0.8743428088220965
+Henry David Thoreau,should,0.4658177333917058
+Henry David Thoreau,show,0.5680332087236531
+Henry David Thoreau,showed,0.9112725674824452
+Henry David Thoreau,side,0.5656026203813551
+Henry David Thoreau,sides,0.8018767896169625
+Henry David Thoreau,sight,0.7150472462213883
+Henry David Thoreau,since,0.4428696829339279
+Henry David Thoreau,single,0.8731297602564743
+Henry David Thoreau,singular,0.8342688285544955
+Henry David Thoreau,sitting,0.9658027531041969
+Henry David Thoreau,six,0.8336209918909437
+Henry David Thoreau,sixty,0.7191757492667572
+Henry David Thoreau,size,0.909446474010275
+Henry David Thoreau,sky,0.9841350812052213
+Henry David Thoreau,sleep,0.8520069443775922
+Henry David Thoreau,slight,0.7139052792977354
+Henry David Thoreau,small,0.5764185485555025
+Henry David Thoreau,smaller,0.9909369517221862
+Henry David Thoreau,smoke,0.9654040937926336
+Henry David Thoreau,smooth,0.8531589768612903
+Henry David Thoreau,so,0.25266229053030087
+Henry David Thoreau,solitary,0.8080344301693629
+Henry David Thoreau,some,0.29235126432232206
+Henry David Thoreau,something,0.6071427124655053
+Henry David Thoreau,sometimes,0.4735823274076069
+Henry David Thoreau,somewhat,0.8736030538520035
+Henry David Thoreau,son,0.8758327850252322
+Henry David Thoreau,soon,0.7100387151648326
+Henry David Thoreau,sort,0.6790839481590685
+Henry David Thoreau,sound,0.6410712982217636
+Henry David Thoreau,south,0.9108616164042063
+Henry David Thoreau,space,0.9468018059870436
+Henry David Thoreau,speak,0.6468934300798899
+Henry David Thoreau,spot,0.9834022433600682
+Henry David Thoreau,stage,0.8957320545122884
+Henry David Thoreau,stand,0.983144179194787
+Henry David Thoreau,standing,0.6703574604510569
+Henry David Thoreau,state,0.9778453378093321
+Henry David Thoreau,steep,0.9901634914586281
+Henry David Thoreau,still,0.34265595138001914
+Henry David Thoreau,stone,0.8914237218055734
+Henry David Thoreau,stones,0.9073927669905191
+Henry David Thoreau,stood,0.4589713789769831
+Henry David Thoreau,strange,0.9327575697232334
+Henry David Thoreau,stretched,0.9991574258797176
+Henry David Thoreau,strong,0.9506067706566161
+Henry David Thoreau,struck,0.7859151015797843
+Henry David Thoreau,such,0.3173714034665187
+Henry David Thoreau,suddenly,0.9506706862649368
+Henry David Thoreau,summer,0.7986685714102056
+Henry David Thoreau,sun,0.8115843574892585
+Henry David Thoreau,supply,0.9921613578503559
+Henry David Thoreau,sure,0.8512415082910416
+Henry David Thoreau,surprised,0.8893213229084393
+Henry David Thoreau,sweet,0.8167344948767397
+Henry David Thoreau,table,0.9668864508543231
+Henry David Thoreau,take,0.5158748218889784
+Henry David Thoreau,taken,0.766960614987262
+Henry David Thoreau,tell,0.8527011393433102
+Henry David Thoreau,ten,0.7091643826280498
+Henry David Thoreau,than,0.45221945469592273
+Henry David Thoreau,that,0.28544685954120935
+Henry David Thoreau,the,0.1171147094370621
+Henry David Thoreau,their,0.3421717140313741
+Henry David Thoreau,them,0.3606627981982191
+Henry David Thoreau,themselves,0.7183068059838458
+Henry David Thoreau,then,0.44652630373227453
+Henry David Thoreau,there,0.19541376325188106
+Henry David Thoreau,therefore,0.9664713400986168
+Henry David Thoreau,these,0.43727322547597
+Henry David Thoreau,they,0.2547093961295564
+Henry David Thoreau,thin,0.7862395841766174
+Henry David Thoreau,things,0.9448269825419052
+Henry David Thoreau,think,0.7381888215499047
+Henry David Thoreau,thinking,0.9140296054594917
+Henry David Thoreau,thirty,0.6948140184064062
+Henry David Thoreau,this,0.23632307820795284
+Henry David Thoreau,those,0.36403960826877446
+Henry David Thoreau,though,0.3124558505792967
+Henry David Thoreau,thought,0.5669528918675667
+Henry David Thoreau,thousand,0.7807233629889088
+Henry David Thoreau,three,0.6536979113751217
+Henry David Thoreau,through,0.36840724429158617
+Henry David Thoreau,thus,0.39544067405023087
+Henry David Thoreau,till,0.47831591494279607
+Henry David Thoreau,time,0.38507963671310336
+Henry David Thoreau,times,0.6448574335823021
+Henry David Thoreau,to,0.09230437850603529
+Henry David Thoreau,together,0.5971957793429078
+Henry David Thoreau,told,0.8617853370819745
+Henry David Thoreau,too,0.47661997407813667
+Henry David Thoreau,took,0.7967047796047032
+Henry David Thoreau,top,0.8341358345760316
+Henry David Thoreau,toward,0.8366771343875994
+Henry David Thoreau,tree,0.6457766721503082
+Henry David Thoreau,trees,0.630536615756026
+Henry David Thoreau,tried,0.9205033127926544
+Henry David Thoreau,true,0.6877763075596511
+Henry David Thoreau,turn,0.7012353509483057
+Henry David Thoreau,turned,0.6595457076888664
+Henry David Thoreau,turning,0.8819882183132746
+Henry David Thoreau,twenty,0.6892940566650777
+Henry David Thoreau,two,0.5721835147364349
+Henry David Thoreau,under,0.30824180682706187
+Henry David Thoreau,unless,0.8966653847741882
+Henry David Thoreau,until,0.7042061946475529
+Henry David Thoreau,up,0.4505946561045511
+Henry David Thoreau,upon,0.5734618640286092
+Henry David Thoreau,us,0.5619007177173313
+Henry David Thoreau,usual,0.8681729147971221
+Henry David Thoreau,vain,0.7456283852559689
+Henry David Thoreau,various,0.7684796330404391
+Henry David Thoreau,very,0.5619975533297796
+Henry David Thoreau,village,0.9287305015884845
+Henry David Thoreau,visible,0.6845429907772874
+Henry David Thoreau,voice,0.949112063715711
+Henry David Thoreau,walk,0.8252525419585444
+Henry David Thoreau,was,0.3722489006995767
+Henry David Thoreau,water,0.6212540287632464
+Henry David Thoreau,waters,0.752863041422597
+Henry David Thoreau,waves,0.8687587692962636
+Henry David Thoreau,way,0.5044557150018009
+Henry David Thoreau,we,0.47040777510236403
+Henry David Thoreau,weather,0.834985174712389
+Henry David Thoreau,week,0.9114233727950188
+Henry David Thoreau,well,0.3690193842642675
+Henry David Thoreau,went,0.6223960822256167
+Henry David Thoreau,were,0.30819446685998103
+Henry David Thoreau,west,0.6882510095924111
+Henry David Thoreau,what,0.2905873293338865
+Henry David Thoreau,when,0.26058742637842874
+Henry David Thoreau,where,0.27062288894131814
+Henry David Thoreau,whether,0.5209719643586581
+Henry David Thoreau,which,0.14335820268993665
+Henry David Thoreau,while,0.419646860432128
+Henry David Thoreau,white,0.86614115424692
+Henry David Thoreau,who,0.4276357579611784
+Henry David Thoreau,whole,0.49379357955192604
+Henry David Thoreau,wholly,0.7682217797228557
+Henry David Thoreau,whom,0.5384956592181387
+Henry David Thoreau,whose,0.5920844363634699
+Henry David Thoreau,why,0.6952845572508624
+Henry David Thoreau,wide,0.7898423339461594
+Henry David Thoreau,wild,0.6632237185141069
+Henry David Thoreau,will,0.5598763288122465
+Henry David Thoreau,wind,0.7632291376484747
+Henry David Thoreau,winds,0.8364485516321652
+Henry David Thoreau,wished,0.6726127574638803
+Henry David Thoreau,with,0.15505024869717793
+Henry David Thoreau,within,0.7229663985180034
+Henry David Thoreau,without,0.44495755846524987
+Henry David Thoreau,wood,0.6648244106080095
+Henry David Thoreau,woods,0.7699105654424399
+Henry David Thoreau,word,0.6440877570194128
+Henry David Thoreau,words,0.856346858535448
+Henry David Thoreau,work,0.8432584700065175
+Henry David Thoreau,world,0.9986996381356951
+Henry David Thoreau,worth,0.8010597185230222
+Henry David Thoreau,would,0.3555953473126136
+Henry David Thoreau,year,0.7509702432177425
+Henry David Thoreau,years,0.5650094178243322
+Henry David Thoreau,yellow,0.5761276196929151
+Henry David Thoreau,yet,0.4554124432079297
+Henry David Thoreau,yield,0.8000125944006452
+Henry David Thoreau,you,0.36327992727199504
+Henry David Thoreau,young,0.8334197191629913
+Henry David Thoreau,your,0.6811119761291329
+Herman Melville,a,0.1897236478765749
+Herman Melville,about,0.5420725912600834
+Herman Melville,above,0.6505487770701576
+Herman Melville,according,0.7366629520442811
+Herman Melville,account,0.43927990948040746
+Herman Melville,across,0.652979198710308
+Herman Melville,actually,0.7267443937928503
+Herman Melville,added,0.8351393461902616
+Herman Melville,additional,0.8759960891937899
+Herman Melville,after,0.35841127933621164
+Herman Melville,again,0.4418677920889921
+Herman Melville,against,0.36742998262006926
+Herman Melville,age,0.7308932875556782
+Herman Melville,air,0.6981724509417605
+Herman Melville,all,0.3034743857707638
+Herman Melville,almost,0.2970050095551085
+Herman Melville,alone,0.7391116339783781
+Herman Melville,along,0.36681673176200513
+Herman Melville,also,0.7414338220146942
+Herman Melville,altogether,0.7044887831894431
+Herman Melville,always,0.6622149065657387
+Herman Melville,am,0.7356757200373564
+Herman Melville,among,0.4014384117908491
+Herman Melville,an,0.2447482068537934
+Herman Melville,and,0.1855779669302618
+Herman Melville,another,0.44640673189318436
+Herman Melville,answer,0.9889922842692643
+Herman Melville,any,0.3108158441200123
+Herman Melville,are,0.3485480336333889
+Herman Melville,arm,0.8333777876620139
+Herman Melville,arms,0.6505482651658812
+Herman Melville,around,0.9999561994909744
+Herman Melville,as,0.1957926824627581
+Herman Melville,aside,0.8751399222586406
+Herman Melville,at,0.14644020337120434
+Herman Melville,aware,0.8961453056194945
+Herman Melville,away,0.4643240223765852
+Herman Melville,back,0.3453275140668402
+Herman Melville,base,0.9385931135463828
+Herman Melville,be,0.14170372659039426
+Herman Melville,became,0.6973680921537861
+Herman Melville,become,0.7655556065878665
+Herman Melville,been,0.30705926037977077
+Herman Melville,before,0.2703165578783507
+Herman Melville,began,0.938243507904458
+Herman Melville,behind,0.7524022810333433
+Herman Melville,being,0.42809245899636406
+Herman Melville,belonged,0.921712807273713
+Herman Melville,below,0.8176460691063955
+Herman Melville,besides,0.8995198739095247
+Herman Melville,best,0.6596961516002845
+Herman Melville,better,0.8067861900337429
+Herman Melville,between,0.5783487496554747
+Herman Melville,black,0.836467503151917
+Herman Melville,blue,0.7340815414922809
+Herman Melville,body,0.6382613875674121
+Herman Melville,both,0.35794804775344063
+Herman Melville,bow,0.8223120216513052
+Herman Melville,break,0.8995715063088889
+Herman Melville,breeze,0.966223619040161
+Herman Melville,bring,0.7236654855126765
+Herman Melville,broad,0.7956329964266697
+Herman Melville,broke,0.9661896892217869
+Herman Melville,broken,0.7243918580207701
+Herman Melville,brought,0.5930159970919676
+Herman Melville,but,0.27105155087342087
+Herman Melville,by,0.29284743563326593
+Herman Melville,call,0.6072892304540106
+Herman Melville,called,0.6810526241011848
+Herman Melville,came,0.5793043698336454
+Herman Melville,can,0.7160173114889419
+Herman Melville,cannot,0.8568315277615473
+Herman Melville,carried,0.5720520733935682
+Herman Melville,carry,0.867593994505575
+Herman Melville,case,0.7306819859131217
+Herman Melville,cases,0.7704708977983028
+Herman Melville,cast,0.4565766468467479
+Herman Melville,caught,0.7952333657722764
+Herman Melville,cause,0.9672751673256661
+Herman Melville,certain,0.6615733573444076
+Herman Melville,certainly,0.9529941295835057
+Herman Melville,chapter,0.36611933658923446
+Herman Melville,character,0.8085220580660122
+Herman Melville,children,0.8946459804528474
+Herman Melville,circumstances,0.8347707820731932
+Herman Melville,clear,0.9816309124492352
+Herman Melville,close,0.5734026079336564
+Herman Melville,come,0.6019662207720744
+Herman Melville,coming,0.6928794988217281
+Herman Melville,common,0.61701343105719
+Herman Melville,company,0.8216516889539875
+Herman Melville,complete,0.9898371613310224
+Herman Melville,completely,0.7387722667155738
+Herman Melville,concerning,0.8591643648272522
+Herman Melville,considerable,0.8030336387951768
+Herman Melville,could,0.4593207476662662
+Herman Melville,country,0.7846343013098638
+Herman Melville,course,0.696115185536145
+Herman Melville,creatures,0.7992317775070698
+Herman Melville,crew,0.8790753386135021
+Herman Melville,cries,0.9107735823883958
+Herman Melville,curious,0.4886295482280069
+Herman Melville,cut,0.6959910281141994
+Herman Melville,dark,0.5545130574236775
+Herman Melville,day,0.38937802817531947
+Herman Melville,days,0.47117254682294135
+Herman Melville,dead,0.9087167055078805
+Herman Melville,death,0.7657415235932163
+Herman Melville,deep,0.7328332345089877
+Herman Melville,devil,0.990396773840328
+Herman Melville,did,0.5309723439193291
+Herman Melville,different,0.8954917121994593
+Herman Melville,direction,0.7613369275464535
+Herman Melville,do,0.6779736137902245
+Herman Melville,doing,0.9393751576586442
+Herman Melville,done,0.6770871016485858
+Herman Melville,doubt,0.744662106856041
+Herman Melville,down,0.3717341725476566
+Herman Melville,during,0.6240138229017578
+Herman Melville,each,0.6720589202125714
+Herman Melville,ear,0.9906337726134036
+Herman Melville,early,0.8212982946553546
+Herman Melville,earth,0.5689954673274467
+Herman Melville,easy,0.8951943413680595
+Herman Melville,either,0.6383006884918536
+Herman Melville,else,0.6762002715020212
+Herman Melville,end,0.5843314627889415
+Herman Melville,ends,0.9915116966310613
+Herman Melville,enough,0.8597346538383208
+Herman Melville,entered,0.9124968478687392
+Herman Melville,entire,0.989625421766097
+Herman Melville,ere,0.6841163147139026
+Herman Melville,especially,0.6103555007642695
+Herman Melville,even,0.5307655179422828
+Herman Melville,ever,0.4063501414263944
+Herman Melville,every,0.4587095301471769
+Herman Melville,except,0.7208223932403479
+Herman Melville,expected,0.9915721607160937
+Herman Melville,eye,0.6133947152559708
+Herman Melville,eyes,0.4345329843588249
+Herman Melville,face,0.6019790978398136
+Herman Melville,fact,0.5336574865005332
+Herman Melville,fair,0.9329307932601448
+Herman Melville,fairly,0.8676777087905566
+Herman Melville,fall,0.7299662879858118
+Herman Melville,falling,0.8808320714542374
+Herman Melville,far,0.6696023982372813
+Herman Melville,fast,0.8648479009273158
+Herman Melville,feet,0.8182196098526184
+Herman Melville,fell,0.8564519729450131
+Herman Melville,fellow,0.7536810337457803
+Herman Melville,few,0.6166838137284858
+Herman Melville,fifty,0.9825941974243965
+Herman Melville,figure,0.6634698925081641
+Herman Melville,filled,0.7655987021884525
+Herman Melville,find,0.9195349905646892
+Herman Melville,fine,0.6380463960489281
+Herman Melville,fire,0.8210329690029261
+Herman Melville,first,0.29512969966414143
+Herman Melville,five,0.6220522726687376
+Herman Melville,flying,0.9991971355809409
+Herman Melville,followed,0.7390530521680757
+Herman Melville,foot,0.8593684911337419
+Herman Melville,for,0.24801582301030117
+Herman Melville,forgotten,0.9108515755000091
+Herman Melville,form,0.741393651691671
+Herman Melville,former,0.9740493242688235
+Herman Melville,forth,0.6680479332161439
+Herman Melville,forward,0.7954421230489609
+Herman Melville,found,0.5597187839957135
+Herman Melville,four,0.49246254528989275
+Herman Melville,free,0.8349021262816876
+Herman Melville,frequently,0.8380427615099342
+Herman Melville,fresh,0.9462706441074632
+Herman Melville,friend,0.7577547248830443
+Herman Melville,friends,0.9341717307098717
+Herman Melville,from,0.2999648410229807
+Herman Melville,full,0.7301028977647085
+Herman Melville,further,0.6665204100848254
+Herman Melville,gained,0.9217407785035543
+Herman Melville,gave,0.9167667502600765
+Herman Melville,general,0.7719627371320658
+Herman Melville,get,0.702889975487533
+Herman Melville,getting,0.9458454320558695
+Herman Melville,give,0.5412032745893081
+Herman Melville,given,0.8213700975977014
+Herman Melville,giving,0.8366487812248775
+Herman Melville,glided,0.8755355936127117
+Herman Melville,go,0.5642061340661149
+Herman Melville,going,0.7372029276564407
+Herman Melville,gold,0.8050912479299116
+Herman Melville,gone,0.5593192535097021
+Herman Melville,good,0.7165644872470264
+Herman Melville,great,0.5121735149340971
+Herman Melville,green,0.886582331097111
+Herman Melville,ground,0.8279219888260845
+Herman Melville,had,0.32703443354712175
+Herman Melville,hair,0.8484270392227699
+Herman Melville,half,0.5888129776822536
+Herman Melville,hand,0.2697957649030238
+Herman Melville,hands,0.6488270796216169
+Herman Melville,happened,0.8007079782112282
+Herman Melville,hard,0.7278348557269074
+Herman Melville,hardly,0.8928881847628855
+Herman Melville,has,0.6036611195051513
+Herman Melville,hat,0.9899933453110177
+Herman Melville,have,0.26130439779850917
+Herman Melville,having,0.5422075605735849
+Herman Melville,he,0.26492151130883634
+Herman Melville,head,0.7566281268106808
+Herman Melville,heads,0.8381142575513493
+Herman Melville,heard,0.5029720041555259
+Herman Melville,heart,0.7284437302732648
+Herman Melville,hearted,0.8746093179938826
+Herman Melville,heavy,0.6074076353373581
+Herman Melville,her,0.7494324439474891
+Herman Melville,here,0.4791104559963526
+Herman Melville,high,0.5842120787152192
+Herman Melville,him,0.4340022021279185
+Herman Melville,himself,0.4853209675896007
+Herman Melville,his,0.2614004021932154
+Herman Melville,hold,0.988154040782783
+Herman Melville,holding,0.772142348267176
+Herman Melville,hollow,0.9201123158514622
+Herman Melville,home,0.5984127562100148
+Herman Melville,hour,0.7521070039153823
+Herman Melville,hours,0.8331559804881696
+Herman Melville,house,0.856377429990914
+Herman Melville,how,0.5224579878127561
+Herman Melville,however,0.532085487325172
+Herman Melville,huge,0.9325215085704521
+Herman Melville,human,0.9632457728481584
+Herman Melville,hundred,0.8369536190813767
+Herman Melville,i,0.6442268393345674
+Herman Melville,idea,0.5584568514043475
+Herman Melville,if,0.34435336371697045
+Herman Melville,ill,0.9143689010116461
+Herman Melville,immediately,0.6930621001358512
+Herman Melville,immense,0.8259060942407748
+Herman Melville,impression,0.9229266578614449
+Herman Melville,in,0.11800902111197212
+Herman Melville,indeed,0.6117083583303089
+Herman Melville,instead,0.993942206639871
+Herman Melville,interest,0.9509968606589733
+Herman Melville,intervals,0.7188761827454431
+Herman Melville,into,0.23876845315290443
+Herman Melville,is,0.4199880283733026
+Herman Melville,it,0.22552368942760226
+Herman Melville,its,0.5670048090474256
+Herman Melville,itself,0.8089352835674186
+Herman Melville,just,0.4657066835742197
+Herman Melville,keep,0.6677372777122758
+Herman Melville,keeping,0.9008324540935996
+Herman Melville,kept,0.989232470298043
+Herman Melville,kind,0.7067770911557216
+Herman Melville,knew,0.6308966189465125
+Herman Melville,knife,0.7860263563006118
+Herman Melville,know,0.9534989578614099
+Herman Melville,knowing,0.922918304698028
+Herman Melville,known,0.9680088547876405
+Herman Melville,knows,0.6707162217487725
+Herman Melville,laid,0.9602330934997638
+Herman Melville,land,0.7042468520181503
+Herman Melville,language,0.9340037872838369
+Herman Melville,large,0.4981982790875137
+Herman Melville,larger,0.9230281614778002
+Herman Melville,last,0.4245881607307755
+Herman Melville,latter,0.8725156594460798
+Herman Melville,lay,0.947853605881899
+Herman Melville,laying,0.910851317421801
+Herman Melville,leaning,0.8027431581094517
+Herman Melville,learned,0.8025033825670208
+Herman Melville,least,0.3759728584416084
+Herman Melville,leave,0.9238395487242698
+Herman Melville,leaving,0.7591074982497993
+Herman Melville,left,0.6011799677639004
+Herman Melville,less,0.73829345176738
+Herman Melville,let,0.6977526652119692
+Herman Melville,lie,0.9890892032629123
+Herman Melville,life,0.4477878064663306
+Herman Melville,light,0.8435204066297227
+Herman Melville,like,0.4035615579794454
+Herman Melville,line,0.812069335497669
+Herman Melville,little,0.46960496564447995
+Herman Melville,live,0.9092080995344319
+Herman Melville,long,0.4444550443147329
+Herman Melville,look,0.7944883045717738
+Herman Melville,looked,0.5982316290319848
+Herman Melville,looking,0.6251274767581279
+Herman Melville,loose,0.8029371196293511
+Herman Melville,lord,0.8564385871364257
+Herman Melville,lost,0.5701094396746336
+Herman Melville,love,0.7433077828167093
+Herman Melville,lower,0.8263269271336832
+Herman Melville,lying,0.6516446556435967
+Herman Melville,made,0.32887479333621916
+Herman Melville,make,0.42241416968418866
+Herman Melville,making,0.5915363346193779
+Herman Melville,man,0.569406826477729
+Herman Melville,manner,0.6578545089108592
+Herman Melville,many,0.3809879784061458
+Herman Melville,matter,0.7357801525597425
+Herman Melville,matters,0.8254453172446848
+Herman Melville,may,0.49939033313130654
+Herman Melville,me,0.7238337388954222
+Herman Melville,means,0.6089051717176663
+Herman Melville,men,0.5190434054683813
+Herman Melville,mentioned,0.7191988089149834
+Herman Melville,mere,0.8395692170884386
+Herman Melville,merely,0.774039799893435
+Herman Melville,met,0.884593487693666
+Herman Melville,middle,0.7523607300165441
+Herman Melville,midnight,0.826021003483318
+Herman Melville,might,0.3590258427698386
+Herman Melville,mind,0.6837663239787287
+Herman Melville,minutes,0.8223356282429775
+Herman Melville,months,0.9920372934274102
+Herman Melville,more,0.2715999324434369
+Herman Melville,morning,0.720275877652358
+Herman Melville,most,0.34004988551222726
+Herman Melville,mouth,0.8042293560221504
+Herman Melville,much,0.5225199467513437
+Herman Melville,must,0.6393557356948821
+Herman Melville,my,0.6992016695228123
+Herman Melville,myself,0.6673659930007948
+Herman Melville,naked,0.8275801248524957
+Herman Melville,name,0.599105603360234
+Herman Melville,natural,0.9532256027570316
+Herman Melville,naturally,0.9913731200774007
+Herman Melville,nature,0.9503767618824988
+Herman Melville,near,0.6834638611284641
+Herman Melville,nearly,0.7418093203006084
+Herman Melville,neck,0.6853876053376138
+Herman Melville,need,0.8000146129174821
+Herman Melville,never,0.5829457568680727
+Herman Melville,nevertheless,0.8837504347243198
+Herman Melville,new,0.9003091587414281
+Herman Melville,next,0.5363908795813765
+Herman Melville,night,0.7580125773514139
+Herman Melville,no,0.3104246017905079
+Herman Melville,noon,0.6886502443390754
+Herman Melville,nor,0.9064334650774571
+Herman Melville,not,0.3140567736393545
+Herman Melville,nothing,0.46744729049404615
+Herman Melville,notwithstanding,0.9668843755030835
+Herman Melville,now,0.5010029732295742
+Herman Melville,number,0.817449866944501
+Herman Melville,numerous,0.9111991156294162
+Herman Melville,observed,0.9294793437950657
+Herman Melville,occasion,0.9120597225023763
+Herman Melville,occasionally,0.8480962253244382
+Herman Melville,of,0.20673354971613994
+Herman Melville,off,0.49511184319906926
+Herman Melville,often,0.6033512047563988
+Herman Melville,old,0.5433615181972836
+Herman Melville,on,0.21534258662966463
+Herman Melville,once,0.3803883788113065
+Herman Melville,one,0.1935414365008587
+Herman Melville,only,0.37162049773442324
+Herman Melville,open,0.6538807386860805
+Herman Melville,opening,0.9649155269588334
+Herman Melville,or,0.2504960680774276
+Herman Melville,order,0.651373380303743
+Herman Melville,ordinary,0.768224553767062
+Herman Melville,other,0.3710244634820704
+Herman Melville,others,0.829505193111718
+Herman Melville,otherwise,0.8531769088955652
+Herman Melville,our,0.71183078633363
+Herman Melville,out,0.3923773778047598
+Herman Melville,over,0.29500908198201764
+Herman Melville,owing,0.6846193958310413
+Herman Melville,own,0.4522194737374796
+Herman Melville,part,0.5465018777782211
+Herman Melville,particular,0.6914100703876793
+Herman Melville,pass,0.7298615678471563
+Herman Melville,passed,0.6183097461671564
+Herman Melville,passing,0.820557904462288
+Herman Melville,past,0.7686909882966396
+Herman Melville,people,0.704309223889701
+Herman Melville,perfectly,0.8742795261713304
+Herman Melville,perhaps,0.44720478255522883
+Herman Melville,period,0.9248948831722777
+Herman Melville,permitted,0.9907329570308006
+Herman Melville,person,0.9756726174323098
+Herman Melville,persons,0.9093363831676262
+Herman Melville,piece,0.9560032034088195
+Herman Melville,place,0.48380446302349656
+Herman Melville,placed,0.6298394762791213
+Herman Melville,places,0.8546393523837965
+Herman Melville,plain,0.7908846067312341
+Herman Melville,point,0.6016921912760674
+Herman Melville,pointed,0.9107585809456228
+Herman Melville,poor,0.8205263109130969
+Herman Melville,possible,0.985821368584339
+Herman Melville,prepared,0.966689750647423
+Herman Melville,present,0.7086093277886761
+Herman Melville,presented,0.9746786886636588
+Herman Melville,pretty,0.932232399162786
+Herman Melville,previous,0.6798233781253478
+Herman Melville,previously,0.8779127621350099
+Herman Melville,produced,0.9776966199065872
+Herman Melville,proved,0.8163025218900543
+Herman Melville,provided,0.9922401051587826
+Herman Melville,put,0.6004999887443175
+Herman Melville,quarter,0.9329960207188738
+Herman Melville,quiet,0.8949949428247771
+Herman Melville,quite,0.6596569656884798
+Herman Melville,rate,0.8064037742135719
+Herman Melville,rather,0.562292671589204
+Herman Melville,real,0.9997464285350166
+Herman Melville,reason,0.8875104742034279
+Herman Melville,received,0.682727869628725
+Herman Melville,receiving,0.9993113831565852
+Herman Melville,red,0.8152220874722252
+Herman Melville,regular,0.9330401718995058
+Herman Melville,removed,0.8939953806050688
+Herman Melville,resolved,0.718403503001751
+Herman Melville,rest,0.6398710860860292
+Herman Melville,returning,0.945699815512662
+Herman Melville,right,0.7261552838355657
+Herman Melville,rise,0.9894579031527921
+Herman Melville,rolled,0.952848591845493
+Herman Melville,rolling,0.9655941565874845
+Herman Melville,round,0.5661994425375094
+Herman Melville,royal,0.9683588207242475
+Herman Melville,run,0.7161559705926099
+Herman Melville,running,0.7288263121413887
+Herman Melville,sail,0.6849419195530861
+Herman Melville,sailing,0.7055883984553034
+Herman Melville,same,0.4263139249312133
+Herman Melville,saw,0.38193036573645145
+Herman Melville,say,0.7379513812715462
+Herman Melville,scene,0.8967831747082003
+Herman Melville,sea,0.6470159130500467
+Herman Melville,seated,0.9889601286672076
+Herman Melville,secured,0.9205878331525369
+Herman Melville,see,0.7070122857551734
+Herman Melville,seem,0.8200613450108629
+Herman Melville,seemed,0.3761882248632841
+Herman Melville,seems,0.885588155591653
+Herman Melville,seen,0.3722566649551208
+Herman Melville,seized,0.9096163362384304
+Herman Melville,seizing,0.9209740801264026
+Herman Melville,set,0.6389367443193611
+Herman Melville,several,0.598567374751218
+Herman Melville,shall,0.780979934062954
+Herman Melville,she,0.7978146928447812
+Herman Melville,ship,0.672792821120323
+Herman Melville,shore,0.9598213530843467
+Herman Melville,short,0.6076566354861803
+Herman Melville,should,0.5454197148217417
+Herman Melville,show,0.7945266111543173
+Herman Melville,side,0.43123437490429983
+Herman Melville,sight,0.6869777966413351
+Herman Melville,since,0.7627111897212342
+Herman Melville,six,0.9143447071220002
+Herman Melville,skin,0.9245580589238185
+Herman Melville,sleep,0.9300715236592422
+Herman Melville,small,0.5456499245643142
+Herman Melville,smoking,0.7454657102166412
+Herman Melville,smooth,0.8755837724611539
+Herman Melville,so,0.34087463636265875
+Herman Melville,soft,0.931856371028788
+Herman Melville,some,0.23710449776111864
+Herman Melville,something,0.5114976771607065
+Herman Melville,sometimes,0.6759103658001847
+Herman Melville,somewhat,0.9057637945613667
+Herman Melville,soon,0.5701365559029744
+Herman Melville,sort,0.8254866888275864
+Herman Melville,sound,0.7937510487321497
+Herman Melville,space,0.9916929598648367
+Herman Melville,speak,0.9218454599239397
+Herman Melville,spirit,0.8339445756805882
+Herman Melville,spot,0.5609623735058181
+Herman Melville,spread,0.7157072946573193
+Herman Melville,stand,0.7136597412247824
+Herman Melville,standing,0.780765202486267
+Herman Melville,stands,0.9995193976676648
+Herman Melville,started,0.8797068435960169
+Herman Melville,state,0.7093986011457911
+Herman Melville,stern,0.9114163423239473
+Herman Melville,stick,0.9906365877670407
+Herman Melville,still,0.3885062633951809
+Herman Melville,stood,0.6403993092554485
+Herman Melville,stout,0.8834329583073213
+Herman Melville,straight,0.852011698529873
+Herman Melville,strange,0.5086982693477561
+Herman Melville,stretched,0.9219995091954549
+Herman Melville,striking,0.9436853077783269
+Herman Melville,struck,0.652497539865718
+Herman Melville,subsequent,0.7065633908269638
+Herman Melville,such,0.43751799211556197
+Herman Melville,suddenly,0.805824199467045
+Herman Melville,sun,0.7681147305530603
+Herman Melville,supposed,0.852032514354292
+Herman Melville,sure,0.9240359091631837
+Herman Melville,surprise,0.9914935984098022
+Herman Melville,take,0.6198255336094998
+Herman Melville,taken,0.8129774955926081
+Herman Melville,taking,0.8966420900969925
+Herman Melville,teeth,0.9104719475020979
+Herman Melville,tell,0.9298085363551497
+Herman Melville,ten,0.7307587571017263
+Herman Melville,than,0.3088175803571516
+Herman Melville,that,0.36015298973443854
+Herman Melville,the,0.14688754265222836
+Herman Melville,their,0.5153268108607667
+Herman Melville,them,0.34772938751606414
+Herman Melville,themselves,0.5845139101166243
+Herman Melville,then,0.44318471319882846
+Herman Melville,there,0.319858539465582
+Herman Melville,therefore,0.8727250409643559
+Herman Melville,these,0.39740242020600136
+Herman Melville,they,0.3054299707946676
+Herman Melville,thick,0.9916790389323333
+Herman Melville,thing,0.8758642472846483
+Herman Melville,things,0.6744525813238543
+Herman Melville,thinking,0.9932333637978629
+Herman Melville,this,0.2401864978869739
+Herman Melville,those,0.6580115566089799
+Herman Melville,though,0.5781446795920531
+Herman Melville,thought,0.8332040640484973
+Herman Melville,thoughts,0.7973305122325651
+Herman Melville,thousand,0.5885270134212649
+Herman Melville,three,0.5306233619289146
+Herman Melville,through,0.5265761014603523
+Herman Melville,throughout,0.9223092650710212
+Herman Melville,thrown,0.8226056475876404
+Herman Melville,thus,0.4889147562253026
+Herman Melville,till,0.7935382213044077
+Herman Melville,time,0.3482572725672629
+Herman Melville,times,0.7696275181168974
+Herman Melville,to,0.10575682610404286
+Herman Melville,together,0.5766593307697001
+Herman Melville,told,0.6405370789352594
+Herman Melville,too,0.45845492130493337
+Herman Melville,took,0.5370007581754478
+Herman Melville,top,0.8275079440702114
+Herman Melville,tossed,0.8063025431544847
+Herman Melville,treated,0.9108053327965924
+Herman Melville,tried,0.9688679286120263
+Herman Melville,true,0.9096473752819602
+Herman Melville,truth,0.9945079793787317
+Herman Melville,turn,0.6679156782661619
+Herman Melville,turned,0.7076530942009626
+Herman Melville,turning,0.8912426018194395
+Herman Melville,twenty,0.6113945927747603
+Herman Melville,two,0.4137698125247602
+Herman Melville,under,0.37069304496327754
+Herman Melville,unknown,0.94743447469389
+Herman Melville,unless,0.866012535336575
+Herman Melville,until,0.9080584766070521
+Herman Melville,up,0.3229008381612064
+Herman Melville,upon,0.44436661274621486
+Herman Melville,us,0.8586993844529882
+Herman Melville,use,0.6731842315614368
+Herman Melville,vain,0.5222821684355693
+Herman Melville,various,0.7208255437608426
+Herman Melville,vast,0.8746566802297057
+Herman Melville,very,0.46309467931721204
+Herman Melville,view,0.8688300210185503
+Herman Melville,visit,0.7288023217239789
+Herman Melville,voice,0.8678671354533054
+Herman Melville,war,0.9443870643192444
+Herman Melville,warm,0.9912123129827232
+Herman Melville,was,0.26493140311406027
+Herman Melville,watching,0.9918504694583198
+Herman Melville,water,0.4755102184486811
+Herman Melville,way,0.2856837582076579
+Herman Melville,ways,0.8715922804617314
+Herman Melville,we,0.7597593586504916
+Herman Melville,wear,0.8202724776137216
+Herman Melville,well,0.6106596569685395
+Herman Melville,went,0.7180700526629363
+Herman Melville,were,0.4268224207383694
+Herman Melville,what,0.47274414751337634
+Herman Melville,whatever,0.774732785201298
+Herman Melville,when,0.24841915243342919
+Herman Melville,where,0.4385177361842578
+Herman Melville,whether,0.7365073429015118
+Herman Melville,which,0.36230693955981685
+Herman Melville,while,0.3569488654732853
+Herman Melville,who,0.3363394037526464
+Herman Melville,whole,0.3466531088432139
+Herman Melville,wholly,0.9384946004158783
+Herman Melville,whom,0.7669653088971486
+Herman Melville,whose,0.8286080728261361
+Herman Melville,why,0.6682961307836311
+Herman Melville,wide,0.6309103190618559
+Herman Melville,wife,0.9100691883262539
+Herman Melville,will,0.5524567600319301
+Herman Melville,wine,0.9895118134207402
+Herman Melville,with,0.14252066223002247
+Herman Melville,within,0.5994166823488281
+Herman Melville,without,0.3176603114624002
+Herman Melville,wonder,0.7988292467020222
+Herman Melville,wood,0.7161554206844084
+Herman Melville,word,0.8334176924894825
+Herman Melville,words,0.8376898000979666
+Herman Melville,work,0.8688197740454953
+Herman Melville,working,0.8774364712678765
+Herman Melville,world,0.6352826121502192
+Herman Melville,would,0.42135901733386827
+Herman Melville,yards,0.7730221212875518
+Herman Melville,years,0.7849808784345975
+Herman Melville,yellow,0.8222268633230132
+Herman Melville,yet,0.7764048659197779
+Herman Melville,you,0.49663575121209425
+Herman Melville,young,0.855164831150291
+Herman Melville,your,0.7813984226149719
+Nathaniel Hawthorne,a,0.11300148652109128
+Nathaniel Hawthorne,about,0.4190019759021991
+Nathaniel Hawthorne,above,0.5155892279439045
+Nathaniel Hawthorne,accordingly,0.9401713867214233
+Nathaniel Hawthorne,accustomed,0.9906673293641237
+Nathaniel Hawthorne,acquaintance,0.9764992624569548
+Nathaniel Hawthorne,acquainted,0.9912350316464476
+Nathaniel Hawthorne,across,0.6743191812775872
+Nathaniel Hawthorne,act,0.8066835340102104
+Nathaniel Hawthorne,activity,0.8231060395475516
+Nathaniel Hawthorne,affection,0.9098661082463141
+Nathaniel Hawthorne,after,0.3088877841143274
+Nathaniel Hawthorne,afterwards,0.6716313840210507
+Nathaniel Hawthorne,again,0.48711351114439866
+Nathaniel Hawthorne,against,0.6145762527117123
+Nathaniel Hawthorne,age,0.7441454778752505
+Nathaniel Hawthorne,aged,0.9521812782650577
+Nathaniel Hawthorne,ago,0.8666086312056008
+Nathaniel Hawthorne,ah,0.7672286674666624
+Nathaniel Hawthorne,air,0.6190134151594064
+Nathaniel Hawthorne,alive,0.9402051117713781
+Nathaniel Hawthorne,all,0.226099936360338
+Nathaniel Hawthorne,allowed,0.9894009087324032
+Nathaniel Hawthorne,almost,0.45954885092179953
+Nathaniel Hawthorne,alone,0.9208786672033893
+Nathaniel Hawthorne,along,0.5513181408913531
+Nathaniel Hawthorne,already,0.437954924308009
+Nathaniel Hawthorne,also,0.9384680608000076
+Nathaniel Hawthorne,although,0.5121688652120846
+Nathaniel Hawthorne,altogether,0.7306727368229612
+Nathaniel Hawthorne,always,0.4809380457267814
+Nathaniel Hawthorne,am,0.561321746827557
+Nathaniel Hawthorne,amid,0.7414214317416686
+Nathaniel Hawthorne,among,0.5170320504912775
+Nathaniel Hawthorne,an,0.17948291712185924
+Nathaniel Hawthorne,and,0.0711438785921188
+Nathaniel Hawthorne,angel,0.8766797321192304
+Nathaniel Hawthorne,another,0.3391353778318466
+Nathaniel Hawthorne,answered,0.6058940887714171
+Nathaniel Hawthorne,any,0.43906784099230073
+Nathaniel Hawthorne,anything,0.8846734674545708
+Nathaniel Hawthorne,apart,0.9223438931136099
+Nathaniel Hawthorne,appear,0.7681823025411705
+Nathaniel Hawthorne,appearance,0.9911767514237286
+Nathaniel Hawthorne,appeared,0.4747533658413468
+Nathaniel Hawthorne,apt,0.7268407011377693
+Nathaniel Hawthorne,are,0.46366627229062957
+Nathaniel Hawthorne,arms,0.7061969270140876
+Nathaniel Hawthorne,around,0.4913655995783191
+Nathaniel Hawthorne,as,0.12500143156506088
+Nathaniel Hawthorne,aside,0.5070050711214357
+Nathaniel Hawthorne,asked,0.6886080045925168
+Nathaniel Hawthorne,aspect,0.39844410775709094
+Nathaniel Hawthorne,assumed,0.909593740764967
+Nathaniel Hawthorne,at,0.12812170870731793
+Nathaniel Hawthorne,atmosphere,0.9152655758059042
+Nathaniel Hawthorne,attention,0.9108577381146985
+Nathaniel Hawthorne,attracted,0.9233877747697928
+Nathaniel Hawthorne,aware,0.9649427709341524
+Nathaniel Hawthorne,away,0.5796877406384253
+Nathaniel Hawthorne,awful,0.9384933964400635
+Nathaniel Hawthorne,back,0.46168354494682806
+Nathaniel Hawthorne,be,0.18254282606491729
+Nathaniel Hawthorne,beautiful,0.6933234047820377
+Nathaniel Hawthorne,beauty,0.7084570380727605
+Nathaniel Hawthorne,became,0.673880227316152
+Nathaniel Hawthorne,because,0.5470198976481393
+Nathaniel Hawthorne,become,0.602294339502299
+Nathaniel Hawthorne,been,0.24435330026818639
+Nathaniel Hawthorne,before,0.39059561355614697
+Nathaniel Hawthorne,began,0.6337988567698467
+Nathaniel Hawthorne,beheld,0.6770129883294712
+Nathaniel Hawthorne,behind,0.8162472591912602
+Nathaniel Hawthorne,behold,0.8399834203916987
+Nathaniel Hawthorne,being,0.35189878502637195
+Nathaniel Hawthorne,believe,0.7866010064970859
+Nathaniel Hawthorne,below,0.9118331990192692
+Nathaniel Hawthorne,beneath,0.7608170997398019
+Nathaniel Hawthorne,beside,0.7416346362147247
+Nathaniel Hawthorne,besides,0.9616875171197091
+Nathaniel Hawthorne,best,0.739823842591124
+Nathaniel Hawthorne,better,0.49600846065577764
+Nathaniel Hawthorne,between,0.47059475584179256
+Nathaniel Hawthorne,beyond,0.7008545140714506
+Nathaniel Hawthorne,black,0.7202501419009416
+Nathaniel Hawthorne,blood,0.7852869614146852
+Nathaniel Hawthorne,body,0.8421133918101162
+Nathaniel Hawthorne,bosom,0.9670989120880353
+Nathaniel Hawthorne,both,0.5051722830125867
+Nathaniel Hawthorne,brain,0.9105461540585029
+Nathaniel Hawthorne,break,0.9928205269108648
+Nathaniel Hawthorne,breath,0.7991076009705361
+Nathaniel Hawthorne,brief,0.7945476021380443
+Nathaniel Hawthorne,bright,0.7874661711880508
+Nathaniel Hawthorne,brilliant,0.9516363435540864
+Nathaniel Hawthorne,bring,0.6724687515552034
+Nathaniel Hawthorne,broad,0.9065983638572196
+Nathaniel Hawthorne,broken,0.8012423169254903
+Nathaniel Hawthorne,brought,0.5324750080372926
+Nathaniel Hawthorne,burst,0.7267192855215988
+Nathaniel Hawthorne,business,0.8401483485761316
+Nathaniel Hawthorne,but,0.13012687611454846
+Nathaniel Hawthorne,by,0.20361818434844034
+Nathaniel Hawthorne,call,0.497806898054841
+Nathaniel Hawthorne,called,0.6502591402779903
+Nathaniel Hawthorne,came,0.456311234051274
+Nathaniel Hawthorne,can,0.3825863893301547
+Nathaniel Hawthorne,cannot,0.7541733505735141
+Nathaniel Hawthorne,care,0.713033965626001
+Nathaniel Hawthorne,case,0.5807917065036945
+Nathaniel Hawthorne,caught,0.8400980697949988
+Nathaniel Hawthorne,caused,0.7383699787949445
+Nathaniel Hawthorne,certain,0.6503303052750636
+Nathaniel Hawthorne,certainly,0.9106514899147607
+Nathaniel Hawthorne,chamber,0.973549718445403
+Nathaniel Hawthorne,change,0.9443069037739795
+Nathaniel Hawthorne,character,0.46897953853073865
+Nathaniel Hawthorne,characteristic,0.9904343718292979
+Nathaniel Hawthorne,cheerful,0.9670137059187063
+Nathaniel Hawthorne,children,0.8738442444778978
+Nathaniel Hawthorne,chill,0.9634204267400039
+Nathaniel Hawthorne,circle,0.9218570213468579
+Nathaniel Hawthorne,circumstances,0.8435112759715404
+Nathaniel Hawthorne,close,0.8205178692877547
+Nathaniel Hawthorne,cold,0.897145220488306
+Nathaniel Hawthorne,come,0.3637680427632906
+Nathaniel Hawthorne,comes,0.8364038377358575
+Nathaniel Hawthorne,comfortable,0.909949948080491
+Nathaniel Hawthorne,common,0.8328734603479135
+Nathaniel Hawthorne,compelled,0.8206456500006727
+Nathaniel Hawthorne,conceive,0.9674528736766392
+Nathaniel Hawthorne,conscience,0.8198345732474936
+Nathaniel Hawthorne,conscious,0.838765941834893
+Nathaniel Hawthorne,consciousness,0.9338802590439965
+Nathaniel Hawthorne,considered,0.6114760835637352
+Nathaniel Hawthorne,continually,0.9100485272396746
+Nathaniel Hawthorne,continued,0.8202736399244405
+Nathaniel Hawthorne,could,0.23774734106476797
+Nathaniel Hawthorne,country,0.9654591588434335
+Nathaniel Hawthorne,course,0.662400678177932
+Nathaniel Hawthorne,cried,0.7553411354752702
+Nathaniel Hawthorne,daily,0.8436582187643797
+Nathaniel Hawthorne,dark,0.4100032405529751
+Nathaniel Hawthorne,day,0.269827330875618
+Nathaniel Hawthorne,days,0.6005227162719322
+Nathaniel Hawthorne,deal,0.9357695513564029
+Nathaniel Hawthorne,death,0.7602550442847043
+Nathaniel Hawthorne,deemed,0.9849279781616403
+Nathaniel Hawthorne,deep,0.5815597593944589
+Nathaniel Hawthorne,deeper,0.9680734231596646
+Nathaniel Hawthorne,deeply,0.8927399556641522
+Nathaniel Hawthorne,depths,0.9658926430372085
+Nathaniel Hawthorne,did,0.45476519274017047
+Nathaniel Hawthorne,different,0.9887277178383852
+Nathaniel Hawthorne,dim,0.8461378510791955
+Nathaniel Hawthorne,distance,0.7303008204641874
+Nathaniel Hawthorne,do,0.31891968053193426
+Nathaniel Hawthorne,does,0.7251463250741057
+Nathaniel Hawthorne,doing,0.8511390901716309
+Nathaniel Hawthorne,done,0.789126120387595
+Nathaniel Hawthorne,doubt,0.7195770311463234
+Nathaniel Hawthorne,doubtless,0.7451694524407043
+Nathaniel Hawthorne,down,0.44629706053821067
+Nathaniel Hawthorne,draw,0.9202453805164369
+Nathaniel Hawthorne,drawn,0.9510694139889249
+Nathaniel Hawthorne,dream,0.7886866927650104
+Nathaniel Hawthorne,drew,0.8416342533943865
+Nathaniel Hawthorne,driven,0.9929426049233
+Nathaniel Hawthorne,due,0.7736783984715728
+Nathaniel Hawthorne,during,0.7059728797901414
+Nathaniel Hawthorne,dusky,0.8726246876804394
+Nathaniel Hawthorne,each,0.6468985537198034
+Nathaniel Hawthorne,ear,0.9900410029790762
+Nathaniel Hawthorne,early,0.6582315594879402
+Nathaniel Hawthorne,earthly,0.9462030441225562
+Nathaniel Hawthorne,effect,0.6758149919281222
+Nathaniel Hawthorne,either,0.4519692871515306
+Nathaniel Hawthorne,else,0.6714364311132464
+Nathaniel Hawthorne,elsewhere,0.9879162120700877
+Nathaniel Hawthorne,end,0.762239217021362
+Nathaniel Hawthorne,energy,0.8039032120099409
+Nathaniel Hawthorne,enough,0.5014069603883292
+Nathaniel Hawthorne,entered,0.8754927528868665
+Nathaniel Hawthorne,entire,0.9911868400678451
+Nathaniel Hawthorne,entrance,0.9400619780390056
+Nathaniel Hawthorne,especially,0.613340390231072
+Nathaniel Hawthorne,essential,0.9102564561193406
+Nathaniel Hawthorne,even,0.47454875964920246
+Nathaniel Hawthorne,events,0.8433748524363688
+Nathaniel Hawthorne,ever,0.3045381519454906
+Nathaniel Hawthorne,every,0.42008003348185174
+Nathaniel Hawthorne,everything,0.9345427589859265
+Nathaniel Hawthorne,evident,0.9895721574621822
+Nathaniel Hawthorne,evidently,0.7291883956894594
+Nathaniel Hawthorne,evil,0.8962865085552789
+Nathaniel Hawthorne,except,0.4879678648775453
+Nathaniel Hawthorne,exclaimed,0.8000847523356203
+Nathaniel Hawthorne,existence,0.7832169024054962
+Nathaniel Hawthorne,expected,0.7671404120577315
+Nathaniel Hawthorne,experience,0.78414461259459
+Nathaniel Hawthorne,expression,0.6496559369339349
+Nathaniel Hawthorne,eye,0.5505158806216469
+Nathaniel Hawthorne,eyes,0.37723151139417727
+Nathaniel Hawthorne,face,0.49231270371288577
+Nathaniel Hawthorne,fact,0.7369015730733738
+Nathaniel Hawthorne,fair,0.8116169320651687
+Nathaniel Hawthorne,fairly,0.7872966563618997
+Nathaniel Hawthorne,fall,0.7355509364162879
+Nathaniel Hawthorne,fallen,0.9131715466688022
+Nathaniel Hawthorne,familiar,0.635250957207048
+Nathaniel Hawthorne,fancied,0.7197168409399631
+Nathaniel Hawthorne,fancy,0.9338088699663111
+Nathaniel Hawthorne,far,0.48280496179723525
+Nathaniel Hawthorne,fate,0.9036952691380044
+Nathaniel Hawthorne,fear,0.9429891506822304
+Nathaniel Hawthorne,features,0.7992099339694655
+Nathaniel Hawthorne,feel,0.6178224274237342
+Nathaniel Hawthorne,feeling,0.8077890220155207
+Nathaniel Hawthorne,feet,0.8350357951591661
+Nathaniel Hawthorne,fell,0.7400601344492561
+Nathaniel Hawthorne,fellow,0.8464426265432476
+Nathaniel Hawthorne,felt,0.49782213246025503
+Nathaniel Hawthorne,few,0.5324863826812478
+Nathaniel Hawthorne,figure,0.7433690150555435
+Nathaniel Hawthorne,figures,0.7854394314236748
+Nathaniel Hawthorne,final,0.9902294436873942
+Nathaniel Hawthorne,finally,0.8015058244971274
+Nathaniel Hawthorne,find,0.46226760231263486
+Nathaniel Hawthorne,finger,0.7223143573390853
+Nathaniel Hawthorne,fireside,0.9683377367865538
+Nathaniel Hawthorne,first,0.3177543310205597
+Nathaniel Hawthorne,fit,0.9485577743730735
+Nathaniel Hawthorne,floor,0.92266055688683
+Nathaniel Hawthorne,flow,0.921990729533011
+Nathaniel Hawthorne,foot,0.8115296559874213
+Nathaniel Hawthorne,footsteps,0.7433856720462105
+Nathaniel Hawthorne,for,0.14316160348772242
+Nathaniel Hawthorne,forgotten,0.9883683343543814
+Nathaniel Hawthorne,forlorn,0.9237354816502182
+Nathaniel Hawthorne,form,0.7869630022214348
+Nathaniel Hawthorne,formed,0.8000220564410412
+Nathaniel Hawthorne,former,0.8483284214220851
+Nathaniel Hawthorne,forth,0.6458869715605031
+Nathaniel Hawthorne,forward,0.6447705519176707
+Nathaniel Hawthorne,found,0.4908006769284493
+Nathaniel Hawthorne,four,0.8218052505042578
+Nathaniel Hawthorne,frame,0.9827001287620978
+Nathaniel Hawthorne,free,0.810974932712872
+Nathaniel Hawthorne,friend,0.8722222920561478
+Nathaniel Hawthorne,friends,0.7045836300696726
+Nathaniel Hawthorne,fro,0.8202504842315171
+Nathaniel Hawthorne,from,0.18772940928836984
+Nathaniel Hawthorne,full,0.5315138858914887
+Nathaniel Hawthorne,future,0.8545758819797227
+Nathaniel Hawthorne,garments,0.9394061554591722
+Nathaniel Hawthorne,gave,0.5942506149201606
+Nathaniel Hawthorne,gaze,0.898966678776882
+Nathaniel Hawthorne,gazing,0.773162058425177
+Nathaniel Hawthorne,generally,0.9674573655764636
+Nathaniel Hawthorne,gesture,0.916324133030961
+Nathaniel Hawthorne,get,0.9530519684503757
+Nathaniel Hawthorne,give,0.4545666433276618
+Nathaniel Hawthorne,given,0.5378096299873492
+Nathaniel Hawthorne,glance,0.7168857774700408
+Nathaniel Hawthorne,glass,0.9836765651260806
+Nathaniel Hawthorne,gleam,0.6903408946433153
+Nathaniel Hawthorne,glow,0.8251310187015956
+Nathaniel Hawthorne,go,0.5044080295057568
+Nathaniel Hawthorne,god,0.997838450946657
+Nathaniel Hawthorne,going,0.7858506593703452
+Nathaniel Hawthorne,gold,0.564270380866185
+Nathaniel Hawthorne,gone,0.7687569532695786
+Nathaniel Hawthorne,good,0.36184740041650526
+Nathaniel Hawthorne,grasp,0.5196253045009522
+Nathaniel Hawthorne,grave,0.9229896487491606
+Nathaniel Hawthorne,gray,0.8103846796946895
+Nathaniel Hawthorne,great,0.44980017362818603
+Nathaniel Hawthorne,greater,0.8007320110857253
+Nathaniel Hawthorne,grew,0.6215826335215763
+Nathaniel Hawthorne,ground,0.8833625442135538
+Nathaniel Hawthorne,growing,0.8260780375472967
+Nathaniel Hawthorne,grown,0.7075554919197021
+Nathaniel Hawthorne,had,0.1975632850405174
+Nathaniel Hawthorne,hair,0.7768213959105021
+Nathaniel Hawthorne,half,0.5789027313746467
+Nathaniel Hawthorne,hand,0.3249185229372355
+Nathaniel Hawthorne,hands,0.4302647979152861
+Nathaniel Hawthorne,happened,0.7666966944302006
+Nathaniel Hawthorne,happiness,0.7201402124661943
+Nathaniel Hawthorne,hard,0.7636447924407257
+Nathaniel Hawthorne,hardly,0.48100355943269
+Nathaniel Hawthorne,has,0.5268946756347109
+Nathaniel Hawthorne,have,0.22500144788010631
+Nathaniel Hawthorne,having,0.8019503822337499
+Nathaniel Hawthorne,he,0.38218539287907705
+Nathaniel Hawthorne,head,0.5937786206309832
+Nathaniel Hawthorne,heard,0.6002020671196052
+Nathaniel Hawthorne,heart,0.3344980095209895
+Nathaniel Hawthorne,heaven,0.9130296997355599
+Nathaniel Hawthorne,heavy,0.9371090838173822
+Nathaniel Hawthorne,held,0.6918052967885162
+Nathaniel Hawthorne,her,0.5975597411213589
+Nathaniel Hawthorne,here,0.38207483311243146
+Nathaniel Hawthorne,heretofore,0.705477994367598
+Nathaniel Hawthorne,herself,0.7781828337087805
+Nathaniel Hawthorne,hidden,0.9045294793343929
+Nathaniel Hawthorne,high,0.8551734226817098
+Nathaniel Hawthorne,him,0.46732815653884563
+Nathaniel Hawthorne,himself,0.567918061320841
+Nathaniel Hawthorne,his,0.4026278962129683
+Nathaniel Hawthorne,hold,0.6832332030101325
+Nathaniel Hawthorne,holding,0.867019979134959
+Nathaniel Hawthorne,home,0.7773019550418528
+Nathaniel Hawthorne,hope,0.6068404233544379
+Nathaniel Hawthorne,hour,0.9189404128603905
+Nathaniel Hawthorne,how,0.32809912358952664
+Nathaniel Hawthorne,however,0.40305580742578745
+Nathaniel Hawthorne,human,0.4147912944881117
+Nathaniel Hawthorne,i,0.6554570482221251
+Nathaniel Hawthorne,idea,0.6513199157296892
+Nathaniel Hawthorne,ideas,0.8224661926829059
+Nathaniel Hawthorne,if,0.16942146672893754
+Nathaniel Hawthorne,ill,0.7576249079149869
+Nathaniel Hawthorne,imagination,0.6991075462733939
+Nathaniel Hawthorne,immediately,0.7296520270644217
+Nathaniel Hawthorne,impressed,0.9223097329974921
+Nathaniel Hawthorne,impulse,0.7719830606022035
+Nathaniel Hawthorne,in,0.0756966555292722
+Nathaniel Hawthorne,inclined,0.9111253355184797
+Nathaniel Hawthorne,indeed,0.5135814865289898
+Nathaniel Hawthorne,individual,0.67367589334882
+Nathaniel Hawthorne,inevitable,0.8935685043930711
+Nathaniel Hawthorne,infinite,0.8079156678592038
+Nathaniel Hawthorne,influence,0.6965092450330173
+Nathaniel Hawthorne,inhabitants,0.9216593835523055
+Nathaniel Hawthorne,inquired,0.7217038251227101
+Nathaniel Hawthorne,instance,0.9142161671821134
+Nathaniel Hawthorne,instant,0.6777066444333651
+Nathaniel Hawthorne,instead,0.8851842575302192
+Nathaniel Hawthorne,intellect,0.6754387255947474
+Nathaniel Hawthorne,intellectual,0.8384264609075703
+Nathaniel Hawthorne,intelligence,0.9893635396365845
+Nathaniel Hawthorne,interest,0.6588906116936126
+Nathaniel Hawthorne,into,0.17054538620030946
+Nathaniel Hawthorne,inward,0.7319902853380369
+Nathaniel Hawthorne,iron,0.8735930078849503
+Nathaniel Hawthorne,is,0.2310184538212484
+Nathaniel Hawthorne,it,0.16480691384524368
+Nathaniel Hawthorne,its,0.27372862764233813
+Nathaniel Hawthorne,itself,0.46067480781092823
+Nathaniel Hawthorne,joy,0.8735263831834655
+Nathaniel Hawthorne,just,0.5849131090778884
+Nathaniel Hawthorne,keep,0.6496739825211908
+Nathaniel Hawthorne,kept,0.619569443443942
+Nathaniel Hawthorne,kind,0.7546026959243691
+Nathaniel Hawthorne,kindly,0.7024116559473093
+Nathaniel Hawthorne,knew,0.604320018357537
+Nathaniel Hawthorne,knot,0.9108592503581672
+Nathaniel Hawthorne,know,0.5074430283322279
+Nathaniel Hawthorne,knowledge,0.966572288752359
+Nathaniel Hawthorne,known,0.48566449251286997
+Nathaniel Hawthorne,lack,0.851954341875812
+Nathaniel Hawthorne,laid,0.9847468407451158
+Nathaniel Hawthorne,large,0.8455436661129023
+Nathaniel Hawthorne,last,0.8671950137305413
+Nathaniel Hawthorne,late,0.8809322762506909
+Nathaniel Hawthorne,latter,0.617968728741395
+Nathaniel Hawthorne,laughing,0.7748193144378381
+Nathaniel Hawthorne,laughter,0.8763902917964436
+Nathaniel Hawthorne,lay,0.8048130101910631
+Nathaniel Hawthorne,least,0.44388589002221845
+Nathaniel Hawthorne,leave,0.7609875882603718
+Nathaniel Hawthorne,leaving,0.9329401802157737
+Nathaniel Hawthorne,led,0.7318140211945958
+Nathaniel Hawthorne,left,0.7434384908039685
+Nathaniel Hawthorne,length,0.7076708869655685
+Nathaniel Hawthorne,less,0.5742603662208909
+Nathaniel Hawthorne,let,0.44899984369147206
+Nathaniel Hawthorne,life,0.365294747482795
+Nathaniel Hawthorne,lifetime,0.8050414739395984
+Nathaniel Hawthorne,light,0.823935541649533
+Nathaniel Hawthorne,like,0.288809003901463
+Nathaniel Hawthorne,likely,0.923806411195489
+Nathaniel Hawthorne,likewise,0.4946451510136566
+Nathaniel Hawthorne,little,0.4563428615386372
+Nathaniel Hawthorne,live,0.6961792512272742
+Nathaniel Hawthorne,lived,0.6992426711093649
+Nathaniel Hawthorne,long,0.3038490372615086
+Nathaniel Hawthorne,longer,0.7852705583894831
+Nathaniel Hawthorne,look,0.4323721157610228
+Nathaniel Hawthorne,looked,0.45129613855288075
+Nathaniel Hawthorne,looking,0.661519443800163
+Nathaniel Hawthorne,looks,0.9906246579933753
+Nathaniel Hawthorne,love,0.675644805239328
+Nathaniel Hawthorne,made,0.3010563944792624
+Nathaniel Hawthorne,make,0.505916490831751
+Nathaniel Hawthorne,making,0.544015678162826
+Nathaniel Hawthorne,man,0.414050158561507
+Nathaniel Hawthorne,man's,0.7698630396480431
+Nathaniel Hawthorne,mankind,0.8226763613995169
+Nathaniel Hawthorne,manner,0.68439537696206
+Nathaniel Hawthorne,many,0.3842741596089247
+Nathaniel Hawthorne,matter,0.4867534821262833
+Nathaniel Hawthorne,matters,0.7319285350710908
+Nathaniel Hawthorne,may,0.49882453904927226
+Nathaniel Hawthorne,me,0.681596642866877
+Nathaniel Hawthorne,means,0.6160907184468835
+Nathaniel Hawthorne,medium,0.9158480869778662
+Nathaniel Hawthorne,men,0.544677287685902
+Nathaniel Hawthorne,merely,0.5318914841458374
+Nathaniel Hawthorne,met,0.7723850030005763
+Nathaniel Hawthorne,midst,0.7970177184875805
+Nathaniel Hawthorne,might,0.25805968633715864
+Nathaniel Hawthorne,mighty,0.8694543621671029
+Nathaniel Hawthorne,mind,0.5090861002215494
+Nathaniel Hawthorne,mine,0.670223517330848
+Nathaniel Hawthorne,mode,0.8025981468165366
+Nathaniel Hawthorne,moment,0.3635978696966348
+Nathaniel Hawthorne,moments,0.7158194215852552
+Nathaniel Hawthorne,moral,0.6347616125543593
+Nathaniel Hawthorne,more,0.2580087755026878
+Nathaniel Hawthorne,moreover,0.7643220377052617
+Nathaniel Hawthorne,morning,0.6622061189964404
+Nathaniel Hawthorne,mortal,0.7666511379580495
+Nathaniel Hawthorne,moss,0.9911461261112591
+Nathaniel Hawthorne,most,0.3552853716361288
+Nathaniel Hawthorne,mouth,0.5714908283884595
+Nathaniel Hawthorne,much,0.35476450889472483
+Nathaniel Hawthorne,multitude,0.9251148649336062
+Nathaniel Hawthorne,must,0.25038379413782075
+Nathaniel Hawthorne,my,0.59255326885604
+Nathaniel Hawthorne,myself,0.9983445304053806
+Nathaniel Hawthorne,mysterious,0.7669857614496646
+Nathaniel Hawthorne,mystery,0.9474242393755486
+Nathaniel Hawthorne,name,0.6089887675322948
+Nathaniel Hawthorne,native,0.6536342832594967
+Nathaniel Hawthorne,natural,0.604150831549885
+Nathaniel Hawthorne,nature,0.5119694789362461
+Nathaniel Hawthorne,near,0.9082565718884625
+Nathaniel Hawthorne,nearly,0.8728534865325122
+Nathaniel Hawthorne,necessity,0.7266482835287785
+Nathaniel Hawthorne,need,0.5054861848869339
+Nathaniel Hawthorne,needs,0.6992004020716578
+Nathaniel Hawthorne,neither,0.604055516041963
+Nathaniel Hawthorne,never,0.3011651035082077
+Nathaniel Hawthorne,nevertheless,0.6450858115235161
+Nathaniel Hawthorne,new,0.3837405344078827
+Nathaniel Hawthorne,next,0.8406030995377987
+Nathaniel Hawthorne,no,0.23088907936418582
+Nathaniel Hawthorne,none,0.5925644097074294
+Nathaniel Hawthorne,nor,0.38861965708917334
+Nathaniel Hawthorne,not,0.1609552599363616
+Nathaniel Hawthorne,nothing,0.4603120855314581
+Nathaniel Hawthorne,now,0.31264420850022495
+Nathaniel Hawthorne,object,0.9191009922195188
+Nathaniel Hawthorne,objects,0.8159993933596488
+Nathaniel Hawthorne,observed,0.5549630270468882
+Nathaniel Hawthorne,of,0.134651019502703
+Nathaniel Hawthorne,off,0.4779038724656398
+Nathaniel Hawthorne,offer,0.9923284483646548
+Nathaniel Hawthorne,often,0.8077771610249896
+Nathaniel Hawthorne,old,0.41188346161854844
+Nathaniel Hawthorne,on,0.1886351215674979
+Nathaniel Hawthorne,once,0.39201843904689154
+Nathaniel Hawthorne,one,0.20443249493326063
+Nathaniel Hawthorne,ones,0.9505590253642412
+Nathaniel Hawthorne,only,0.31435603753429847
+Nathaniel Hawthorne,open,0.6586541603253258
+Nathaniel Hawthorne,or,0.11564306120252674
+Nathaniel Hawthorne,order,0.7179571462968402
+Nathaniel Hawthorne,ordinary,0.671124434744614
+Nathaniel Hawthorne,other,0.26768373959494973
+Nathaniel Hawthorne,others,0.8755274373344889
+Nathaniel Hawthorne,otherwise,0.5673934707638734
+Nathaniel Hawthorne,our,0.8037982832639889
+Nathaniel Hawthorne,out,0.3442679969434565
+Nathaniel Hawthorne,outward,0.9324843507514876
+Nathaniel Hawthorne,over,0.33873003738922164
+Nathaniel Hawthorne,own,0.21710704567506545
+Nathaniel Hawthorne,pale,0.7007316225705028
+Nathaniel Hawthorne,part,0.5978785906537473
+Nathaniel Hawthorne,pass,0.947024339807389
+Nathaniel Hawthorne,passage,0.7990436830085659
+Nathaniel Hawthorne,passed,0.42583848195491214
+Nathaniel Hawthorne,passing,0.7350502078602383
+Nathaniel Hawthorne,past,0.6293403421002117
+Nathaniel Hawthorne,paused,0.9216509466144581
+Nathaniel Hawthorne,peculiar,0.9609742161207518
+Nathaniel Hawthorne,people,0.49332550018761073
+Nathaniel Hawthorne,perception,0.9229685818600033
+Nathaniel Hawthorne,perhaps,0.5566536505083852
+Nathaniel Hawthorne,period,0.5331783138501366
+Nathaniel Hawthorne,person,0.8844913329387052
+Nathaniel Hawthorne,personage,0.9100767029019495
+Nathaniel Hawthorne,physical,0.6033192767572464
+Nathaniel Hawthorne,piece,0.9675273639251696
+Nathaniel Hawthorne,place,0.6598144404922696
+Nathaniel Hawthorne,pleasure,0.816064798720719
+Nathaniel Hawthorne,point,0.5910828663372582
+Nathaniel Hawthorne,poor,0.5793624124681732
+Nathaniel Hawthorne,portion,0.8195762541100581
+Nathaniel Hawthorne,position,0.8038268196352987
+Nathaniel Hawthorne,possessed,0.7718032987565443
+Nathaniel Hawthorne,possible,0.8698940296479076
+Nathaniel Hawthorne,possibly,0.8778892055816371
+Nathaniel Hawthorne,post,0.875438931860654
+Nathaniel Hawthorne,power,0.6290644693509566
+Nathaniel Hawthorne,powerful,0.9323618871393097
+Nathaniel Hawthorne,pray,0.8370310300440255
+Nathaniel Hawthorne,precisely,0.8415122486604928
+Nathaniel Hawthorne,presence,0.7845616719038166
+Nathaniel Hawthorne,present,0.4997927252264685
+Nathaniel Hawthorne,private,0.9937054735201964
+Nathaniel Hawthorne,probably,0.5972018784887181
+Nathaniel Hawthorne,pure,0.880621468206152
+Nathaniel Hawthorne,purpose,0.46306693269924204
+Nathaniel Hawthorne,put,0.5810547760022374
+Nathaniel Hawthorne,qualities,0.708371006426069
+Nathaniel Hawthorne,question,0.9508126516553318
+Nathaniel Hawthorne,quiet,0.9990333235644676
+Nathaniel Hawthorne,quite,0.8412030462644002
+Nathaniel Hawthorne,rare,0.8239728011400836
+Nathaniel Hawthorne,rather,0.5946840004895281
+Nathaniel Hawthorne,read,0.9092255817324244
+Nathaniel Hawthorne,ready,0.7984946098393758
+Nathaniel Hawthorne,real,0.7199145450923106
+Nathaniel Hawthorne,really,0.6211859941804517
+Nathaniel Hawthorne,reason,0.915546836209507
+Nathaniel Hawthorne,reasonably,0.9213588483740621
+Nathaniel Hawthorne,received,0.9115939177334007
+Nathaniel Hawthorne,recognized,0.7071506881053358
+Nathaniel Hawthorne,red,0.9095146149854876
+Nathaniel Hawthorne,regard,0.9011223340749726
+Nathaniel Hawthorne,regarded,0.850733345467328
+Nathaniel Hawthorne,region,0.8221909895649288
+Nathaniel Hawthorne,remain,0.9902419748996202
+Nathaniel Hawthorne,remained,0.9101213227338992
+Nathaniel Hawthorne,remarkable,0.7732069996599498
+Nathaniel Hawthorne,remarked,0.8098622938425515
+Nathaniel Hawthorne,replied,0.40646446654697777
+Nathaniel Hawthorne,responded,0.9108481690075549
+Nathaniel Hawthorne,rest,0.92847452243817
+Nathaniel Hawthorne,result,0.7249760528546179
+Nathaniel Hawthorne,returned,0.7150889836461868
+Nathaniel Hawthorne,rich,0.7362455694537489
+Nathaniel Hawthorne,right,0.6974379689449783
+Nathaniel Hawthorne,room,0.9670865899690916
+Nathaniel Hawthorne,round,0.5589773771598063
+Nathaniel Hawthorne,rude,0.630874526201605
+Nathaniel Hawthorne,run,0.8743670108030905
+Nathaniel Hawthorne,sad,0.8547339441842792
+Nathaniel Hawthorne,said,0.34611815126291384
+Nathaniel Hawthorne,sake,0.8412208065867571
+Nathaniel Hawthorne,same,0.4021236757430012
+Nathaniel Hawthorne,sat,0.7999000870510646
+Nathaniel Hawthorne,save,0.8739326912003235
+Nathaniel Hawthorne,saw,0.6461937725713638
+Nathaniel Hawthorne,say,0.3911943569188539
+Nathaniel Hawthorne,scarcely,0.9900766089439622
+Nathaniel Hawthorne,scene,0.6194469694828048
+Nathaniel Hawthorne,scorn,0.9882654992385765
+Nathaniel Hawthorne,sea,0.8683695013591513
+Nathaniel Hawthorne,seated,0.9906694508947548
+Nathaniel Hawthorne,secret,0.8350943914714042
+Nathaniel Hawthorne,see,0.5147059674074431
+Nathaniel Hawthorne,seek,0.8729541811599709
+Nathaniel Hawthorne,seeking,0.8263232339354258
+Nathaniel Hawthorne,seem,0.6276618824882755
+Nathaniel Hawthorne,seemed,0.22998533135151522
+Nathaniel Hawthorne,seems,0.9366671527098606
+Nathaniel Hawthorne,seen,0.4836656662878236
+Nathaniel Hawthorne,seldom,0.9135100591549674
+Nathaniel Hawthorne,self,0.7679923882682601
+Nathaniel Hawthorne,sense,0.8114788074794579
+Nathaniel Hawthorne,sensible,0.882058609274946
+Nathaniel Hawthorne,served,0.9200401400817866
+Nathaniel Hawthorne,set,0.4393892318793746
+Nathaniel Hawthorne,several,0.770521796697109
+Nathaniel Hawthorne,shadow,0.6005071781819076
+Nathaniel Hawthorne,shadowy,0.7455713410979251
+Nathaniel Hawthorne,shall,0.42935288452840276
+Nathaniel Hawthorne,she,0.6215408975444541
+Nathaniel Hawthorne,short,0.7961233866528146
+Nathaniel Hawthorne,should,0.4534305277712456
+Nathaniel Hawthorne,show,0.6181963873808762
+Nathaniel Hawthorne,side,0.5880655050568048
+Nathaniel Hawthorne,sight,0.7532291505697029
+Nathaniel Hawthorne,since,0.48817302221328085
+Nathaniel Hawthorne,singular,0.803122035573001
+Nathaniel Hawthorne,sit,0.9372049339771896
+Nathaniel Hawthorne,slight,0.6151302204143155
+Nathaniel Hawthorne,small,0.8849724152135815
+Nathaniel Hawthorne,smile,0.7209830189444808
+Nathaniel Hawthorne,so,0.19372802857204804
+Nathaniel Hawthorne,social,0.912149773338414
+Nathaniel Hawthorne,society,0.8211912265905683
+Nathaniel Hawthorne,soil,0.9358664511472968
+Nathaniel Hawthorne,sole,0.7262614661776715
+Nathaniel Hawthorne,solemn,0.9891612497713199
+Nathaniel Hawthorne,solitude,0.9904888474794098
+Nathaniel Hawthorne,some,0.29803807883352246
+Nathaniel Hawthorne,something,0.5163796212898303
+Nathaniel Hawthorne,sometimes,0.9261624122134973
+Nathaniel Hawthorne,somewhat,0.6838947584276226
+Nathaniel Hawthorne,soon,0.644476940972147
+Nathaniel Hawthorne,sorrow,0.7388967690582072
+Nathaniel Hawthorne,sort,0.8039266099023898
+Nathaniel Hawthorne,sought,0.9751092563863144
+Nathaniel Hawthorne,soul,0.9550328306049013
+Nathaniel Hawthorne,sound,0.8522341746251839
+Nathaniel Hawthorne,speak,0.8839125387595961
+Nathaniel Hawthorne,spent,0.7732360761531454
+Nathaniel Hawthorne,sphere,0.6985621024370912
+Nathaniel Hawthorne,spirit,0.4392515949634919
+Nathaniel Hawthorne,spirits,0.7621582316334058
+Nathaniel Hawthorne,spiritual,0.5334263001010867
+Nathaniel Hawthorne,spot,0.8118861580073958
+Nathaniel Hawthorne,spring,0.7300673373816453
+Nathaniel Hawthorne,stand,0.8719593354032633
+Nathaniel Hawthorne,startled,0.8019245032426473
+Nathaniel Hawthorne,state,0.5333925838253146
+Nathaniel Hawthorne,stately,0.9114138495039107
+Nathaniel Hawthorne,step,0.8556910851825732
+Nathaniel Hawthorne,stern,0.6806968001815394
+Nathaniel Hawthorne,still,0.35923726818942264
+Nathaniel Hawthorne,stole,0.9659503282278687
+Nathaniel Hawthorne,stood,0.4485753439561312
+Nathaniel Hawthorne,strange,0.5956181222866952
+Nathaniel Hawthorne,street,0.9242124336194532
+Nathaniel Hawthorne,strength,0.8067204826156836
+Nathaniel Hawthorne,strong,0.7498160634811978
+Nathaniel Hawthorne,struck,0.8224524977655653
+Nathaniel Hawthorne,substance,0.6782729016473336
+Nathaniel Hawthorne,such,0.26209907805921506
+Nathaniel Hawthorne,sudden,0.9394832684405152
+Nathaniel Hawthorne,suddenly,0.6887537800519554
+Nathaniel Hawthorne,suggested,0.9656189202492396
+Nathaniel Hawthorne,suitable,0.9108529312078649
+Nathaniel Hawthorne,sun,0.8093762239155948
+Nathaniel Hawthorne,sunshine,0.7309112615063925
+Nathaniel Hawthorne,suppose,0.81691980884566
+Nathaniel Hawthorne,sure,0.9611697361915122
+Nathaniel Hawthorne,surprise,0.8238972427308703
+Nathaniel Hawthorne,sweet,0.9667706045474933
+Nathaniel Hawthorne,sympathy,0.7726820826104657
+Nathaniel Hawthorne,take,0.41612643044634035
+Nathaniel Hawthorne,taken,0.6190717226709784
+Nathaniel Hawthorne,taking,0.7633102401123045
+Nathaniel Hawthorne,talk,0.9318250378883026
+Nathaniel Hawthorne,taste,0.9673749220454546
+Nathaniel Hawthorne,tell,0.9653790954560654
+Nathaniel Hawthorne,tendency,0.8226778947462046
+Nathaniel Hawthorne,than,0.20448979467992562
+Nathaniel Hawthorne,that,0.1247607871785422
+Nathaniel Hawthorne,the,0.15309061915027397
+Nathaniel Hawthorne,their,0.4570031283214445
+Nathaniel Hawthorne,them,0.25131187739732447
+Nathaniel Hawthorne,themselves,0.5366877928655449
+Nathaniel Hawthorne,then,0.3274421143488598
+Nathaniel Hawthorne,there,0.19569132925636523
+Nathaniel Hawthorne,therefore,0.6474790312632077
+Nathaniel Hawthorne,these,0.2883940698938103
+Nathaniel Hawthorne,they,0.3510739884175035
+Nathaniel Hawthorne,thing,0.8136853559923419
+Nathaniel Hawthorne,things,0.6111623363924422
+Nathaniel Hawthorne,think,0.6371463710406573
+Nathaniel Hawthorne,third,0.8946961324843187
+Nathaniel Hawthorne,this,0.14874504545274397
+Nathaniel Hawthorne,those,0.4388665116029989
+Nathaniel Hawthorne,though,0.3806345182272715
+Nathaniel Hawthorne,thought,0.42095023852217306
+Nathaniel Hawthorne,thoughts,0.7144029628053208
+Nathaniel Hawthorne,thousand,0.9245856693570014
+Nathaniel Hawthorne,three,0.5222257663298182
+Nathaniel Hawthorne,through,0.31592864259519493
+Nathaniel Hawthorne,throw,0.8245981082025307
+Nathaniel Hawthorne,thrown,0.8575142216909084
+Nathaniel Hawthorne,thrust,0.7069080583494405
+Nathaniel Hawthorne,thus,0.5974320873002316
+Nathaniel Hawthorne,time,0.33782025076060596
+Nathaniel Hawthorne,times,0.626765620246099
+Nathaniel Hawthorne,to,0.07990728994304253
+Nathaniel Hawthorne,together,0.553635622069026
+Nathaniel Hawthorne,toil,0.882642408227071
+Nathaniel Hawthorne,told,0.6175926195323409
+Nathaniel Hawthorne,too,0.2721290798465139
+Nathaniel Hawthorne,took,0.4394932702199426
+Nathaniel Hawthorne,touch,0.9840676557302936
+Nathaniel Hawthorne,towards,0.5398752257822854
+Nathaniel Hawthorne,town,0.6362888826204718
+Nathaniel Hawthorne,trees,0.8326458214095103
+Nathaniel Hawthorne,triumphant,0.9896647469274469
+Nathaniel Hawthorne,true,0.43823347595765866
+Nathaniel Hawthorne,truly,0.9859723445274262
+Nathaniel Hawthorne,truth,0.5087080247210403
+Nathaniel Hawthorne,turn,0.5622507349529873
+Nathaniel Hawthorne,turned,0.6105478907771312
+Nathaniel Hawthorne,turning,0.7734322844622531
+Nathaniel Hawthorne,two,0.6053740096400062
+Nathaniel Hawthorne,under,0.6205234578126508
+Nathaniel Hawthorne,understand,0.659598497437904
+Nathaniel Hawthorne,unless,0.7662477812548933
+Nathaniel Hawthorne,up,0.3303029743029193
+Nathaniel Hawthorne,upon,0.38515199722256893
+Nathaniel Hawthorne,upward,0.909594296955057
+Nathaniel Hawthorne,us,0.6247913527232342
+Nathaniel Hawthorne,usually,0.9108490739291478
+Nathaniel Hawthorne,utmost,0.9370008022238889
+Nathaniel Hawthorne,uttered,0.9114203093030637
+Nathaniel Hawthorne,vanished,0.8665231865254146
+Nathaniel Hawthorne,variety,0.7159407814480252
+Nathaniel Hawthorne,various,0.8170594370064491
+Nathaniel Hawthorne,verge,0.817390123569968
+Nathaniel Hawthorne,very,0.5019891010468326
+Nathaniel Hawthorne,view,0.5959075245171362
+Nathaniel Hawthorne,visible,0.8310658014846598
+Nathaniel Hawthorne,vivid,0.9230686014535338
+Nathaniel Hawthorne,voice,0.8114937248607518
+Nathaniel Hawthorne,warm,0.8851754130774849
+Nathaniel Hawthorne,was,0.2095367443743618
+Nathaniel Hawthorne,water,0.718520207495299
+Nathaniel Hawthorne,way,0.5167399768493831
+Nathaniel Hawthorne,we,0.48888412440638557
+Nathaniel Hawthorne,well,0.3065499179620618
+Nathaniel Hawthorne,went,0.43050724191659373
+Nathaniel Hawthorne,were,0.28268293976091013
+Nathaniel Hawthorne,what,0.24726930969890273
+Nathaniel Hawthorne,whatever,0.49101948044718585
+Nathaniel Hawthorne,when,0.2889828089096267
+Nathaniel Hawthorne,where,0.5822886450576015
+Nathaniel Hawthorne,whether,0.3426656814878517
+Nathaniel Hawthorne,which,0.1251921802639289
+Nathaniel Hawthorne,while,0.40683810526430547
+Nathaniel Hawthorne,whispered,0.823133584611789
+Nathaniel Hawthorne,white,0.5996521743100727
+Nathaniel Hawthorne,who,0.5351912414142994
+Nathaniel Hawthorne,whole,0.42746536003701213
+Nathaniel Hawthorne,whom,0.42514948155660903
+Nathaniel Hawthorne,whose,0.7235061970065855
+Nathaniel Hawthorne,why,0.5478046102896755
+Nathaniel Hawthorne,wide,0.9807170920066459
+Nathaniel Hawthorne,wild,0.8134816770705933
+Nathaniel Hawthorne,will,0.5106127220649546
+Nathaniel Hawthorne,wisdom,0.8083947549059953
+Nathaniel Hawthorne,with,0.11646392513737884
+Nathaniel Hawthorne,within,0.48541857553283824
+Nathaniel Hawthorne,without,0.46862266810515985
+Nathaniel Hawthorne,woman,0.782414513005266
+Nathaniel Hawthorne,woman's,0.9109833954908426
+Nathaniel Hawthorne,wonder,0.8061106863785503
+Nathaniel Hawthorne,word,0.6119436311412851
+Nathaniel Hawthorne,words,0.7995026977535351
+Nathaniel Hawthorne,work,0.8669949586504588
+Nathaniel Hawthorne,world,0.5031996734155378
+Nathaniel Hawthorne,worn,0.9110793663798323
+Nathaniel Hawthorne,worthy,0.8013345007102901
+Nathaniel Hawthorne,would,0.22644812637937747
+Nathaniel Hawthorne,wretched,0.8063019240495825
+Nathaniel Hawthorne,wrong,0.8850257060704372
+Nathaniel Hawthorne,wrought,0.6067102713595538
+Nathaniel Hawthorne,years,0.539472803933024
+Nathaniel Hawthorne,yes,0.7367330069990802
+Nathaniel Hawthorne,yet,0.3427814720908876
+Nathaniel Hawthorne,you,0.5956120031596063
+Nathaniel Hawthorne,young,0.762195394572392
+Nathaniel Hawthorne,your,0.6594611691572314
+Nathaniel Hawthorne,youth,0.9056747444506754
+Nathaniel Hawthorne,youthful,0.91358291822389

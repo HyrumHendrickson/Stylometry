@@ -1,10 +1,4 @@
-# User-curated corpus and generated artifacts stay out of version control.
-input/*
-!input/.gitkeep
-temp/*
-!temp/.gitkeep
-results/*
-!results/.gitkeep
+
 
 # Python
 __pycache__/
