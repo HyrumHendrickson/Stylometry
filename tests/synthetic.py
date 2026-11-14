@@ -43,7 +43,7 @@ def write_corpus(
     seed: int = 0,
     informative: tuple[int, ...] = (3, 11, 19),
 ) -> dict[str, list[Path]]:
-    """Write ``input_dir/<author>/text_<k>.txt`` files and return the paths by author."""
+    """Write ``input_dir/<author>_work<w>_<k>.txt`` files and return the paths by author."""
     rng = np.random.default_rng(seed)
     n_common, n_topic, n_filler = len(COMMON_WORDS), 15, 150
     base = 1.0 / (np.arange(n_common) + 2.0) ** 0.8
@@ -54,7 +54,7 @@ def write_corpus(
 
     written: dict[str, list[Path]] = {}
     for a in range(n_authors):
-        name = f"author_{letters(a)}"
+        name = f"author{letters(a)}"
         rates = base.copy()
         for index in informative:
             rates[index] *= np.exp(signal * rng.normal())
@@ -64,8 +64,7 @@ def write_corpus(
         words = COMMON_WORDS + topic_words + filler_words
         probs = np.concatenate([0.7 * rates, 0.2 * topic, 0.1 * filler])
 
-        folder = input_dir / name
-        folder.mkdir(parents=True, exist_ok=True)
+        input_dir.mkdir(parents=True, exist_ok=True)
         written[name] = []
         for k in range(n_texts):
             noisy = probs * np.exp(jitter * rng.normal(size=probs.size))
@@ -73,7 +72,7 @@ def write_corpus(
             counts = rng.multinomial(n_tokens, noisy)
             tokens = np.repeat(np.array(words), counts)
             rng.shuffle(tokens)
-            path = folder / f"text_{k}.txt"
+            path = input_dir / f"{name}_work{k // 3}_{k}.txt"
             path.write_text(" ".join(tokens.tolist()) + "\n", encoding="utf-8")
             written[name].append(path)
     return written

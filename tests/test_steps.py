@@ -5,60 +5,70 @@ import pandas as pd
 import pytest
 
 from programs.step1_word_frequencies import tokenize
-from programs.step2_stable_words import rank_words
-from programs.step3_shared_words import select_shared_words
-from programs.step4_distance_matrix import word_power
-from programs.step5_report import author_matrix
+from programs.step2_stable_words import stable_words
+from programs.step3_distance_matrix import distance_matrix
+from programs.step5_groups import propose_groups, silhouette
 
 
 def test_tokenize_lowercases_and_normalizes_apostrophes():
     assert tokenize("Don’t STOP, it's 3 o'clock!") == ["don't", "stop", "it's", "o'clock"]
 
 
-def test_rank_words_orders_by_consistency_and_drops_missing_words():
-    rows = pd.DataFrame(
-        {
-            "text_id": ["t1", "t1", "t1", "t2", "t2", "t2"],
-            "word": ["steady", "erratic", "rare", "steady", "erratic", "other"],
-            "frequency": [0.10, 0.02, 0.01, 0.10, 0.20, 0.01],
-        }
-    )
-    ranking = rank_words(rows)
-    assert ranking["word"].tolist() == ["steady", "erratic"]  # "rare" and "other" miss a text
-    assert ranking["rank"].tolist() == [1, 2]
+def test_stable_words_keeps_words_found_in_enough_texts():
+    texts = ["t1", "t2", "t3", "t4", "t5"]
+    rows = [(t, "the", 0.1) for t in texts] + [("t1", "of", 0.1), ("t2", "of", 0.1)]
+    rows += [("t1", "name", 0.1)]
+    frequencies = pd.DataFrame(rows, columns=["text_id", "word", "frequency"])
+    # "the" is in 5/5 texts, "of" in 2/5 (40%, kept at the 25% default), "name" in 1/5 (20%).
+    assert stable_words(frequencies)["word"].tolist() == ["the", "of"]
 
 
-def test_select_shared_words_uses_worst_rank_and_keeps_ties():
-    rankings = pd.DataFrame(
-        {
-            "author": ["a"] * 3 + ["b"] * 3,
-            "word": ["x", "y", "z", "y", "x", "z"],
-            "rank": [1, 2, 3, 1, 2, 3],
-        }
-    )
-    shared = select_shared_words(rankings, target=1)
-    assert shared["word"].tolist() == ["x", "y"]  # both enter at rank 2, so both are kept
-
-
-def test_select_shared_words_fails_when_too_few():
-    rankings = pd.DataFrame({"author": ["a", "b"], "word": ["x", "y"], "rank": [1, 1]})
+def test_stable_words_fails_when_no_word_qualifies():
+    rows = [(f"t{i}", word, 0.1) for i, word in enumerate("abcde")]  # each word in 1 of 5 texts
+    frequencies = pd.DataFrame(rows, columns=["text_id", "word", "frequency"])
     with pytest.raises(SystemExit):
-        select_shared_words(rankings, target=1)
+        stable_words(frequencies)
 
 
-def test_word_power_finds_the_word_that_separates_authors():
+def test_distance_matrix_is_cosine_distance_in_range():
     rng = np.random.default_rng(0)
-    authors = np.repeat(["a", "b"], 10)
-    separating = np.r_[rng.normal(0, 0.1, 10), rng.normal(3, 0.1, 10)]
-    noise = rng.normal(0, 1, 20)
-    f_ratio, weight, _ = word_power(np.column_stack([separating, noise]), authors)
-    assert f_ratio[0] > 100
-    assert f_ratio[1] < 5
-    assert weight.sum() == pytest.approx(1)
-    assert weight[0] > 0.9
+    rows = [(t, w, rng.uniform(0.01, 0.1)) for t in ("b", "a", "c") for w in ("x", "y", "z")]
+    frequencies = pd.DataFrame(rows, columns=["text_id", "word", "frequency"])
+    matrix = distance_matrix(frequencies, ["x", "y", "z"])
+    assert matrix.index.tolist() == ["a", "b", "c"]
+    assert np.allclose(matrix.to_numpy(), matrix.to_numpy().T)
+    assert (matrix.to_numpy().diagonal() == 0).all()
+    assert matrix.to_numpy().min() >= 0 and matrix.to_numpy().max() <= 2
 
 
-def test_author_matrix_ignores_self_distances():
-    distances = np.array([[0, 1, 5, 5], [1, 0, 5, 5], [5, 5, 0, 2], [5, 5, 2, 0]], dtype=float)
-    mean, _ = author_matrix(distances, np.array(["a", "a", "b", "b"]), ["a", "b"])
-    assert mean.tolist() == [[1, 5], [5, 2]]
+def blocks(*sizes):
+    """Distances for blocks of texts: 1 inside a block, growing with the gap between blocks."""
+    block = np.repeat(np.arange(len(sizes)), sizes)
+    distances = 1.0 + 4.0 * np.abs(block[:, None] - block[None, :])
+    distances[block[:, None] == block[None, :]] = 1.0
+    np.fill_diagonal(distances, 0)
+    return distances
+
+
+def two_blocks():
+    return blocks(3, 3)
+
+
+def test_propose_groups_finds_the_blocks():
+    groups = propose_groups(two_blocks())
+    assert groups[:3].tolist() == [groups[0]] * 3
+    assert groups[3:].tolist() == [groups[3]] * 3
+    assert sorted(set(groups)) == [1, 2]
+
+
+def test_propose_groups_obeys_a_requested_number():
+    groups = propose_groups(blocks(2, 2, 2), number=3)
+    assert len(set(groups)) == 3
+    groups = propose_groups(blocks(2, 2, 2), number=2)
+    assert len(set(groups)) == 2
+
+
+def test_silhouette_is_high_for_separated_groups_and_low_for_mixed_ones():
+    distances = two_blocks()
+    assert silhouette(distances, np.array([1, 1, 1, 2, 2, 2])) > 0.5
+    assert silhouette(distances, np.array([1, 2, 1, 2, 1, 2])) < 0

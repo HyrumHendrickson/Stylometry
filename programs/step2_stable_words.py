@@ -1,11 +1,11 @@
-"""Step 2: for each author, rank the words used at the most consistent rate.
+"""Step 2: choose the words to compare the texts on.
 
-A word qualifies for an author only if it appears in every one of that author's texts.
-Qualifying words are ranked by the coefficient of variation (standard deviation / mean) of
-their frequency across the author's texts, lowest first (rank 1 = most consistent).
-Ties go to the more frequent word, then alphabetical order.
+A word is used only if it appears in at least MIN_SHARE_OF_TEXTS of the texts (see
+programs/common.py). Words that appear in only a few texts are topical (character names,
+places) and would make texts look different because of their subject, not their style.
 
-Reads temp/word_frequencies.csv and writes temp/stable_words_by_author.csv.
+Reads temp/word_frequencies.csv and writes temp/stable_words.csv (word, share), where share
+is the fraction of texts that contain the word.
 """
 
 from pathlib import Path
@@ -13,35 +13,30 @@ from pathlib import Path
 import pandas as pd
 
 from programs.common import (
+    MIN_SHARE_OF_TEXTS,
     ROOT,
     STABLE_WORDS,
     WORD_FREQUENCIES,
+    fail,
     read_table,
     root_from_command_line,
     write_table,
 )
 
 
-def rank_words(author_rows: pd.DataFrame) -> pd.DataFrame:
-    """Rank the words of one author. Input: that author's rows from step 1."""
-    # One row per text, one column per word; a word missing from any text is dropped.
-    wide = author_rows.pivot(index="text_id", columns="word", values="frequency").dropna(axis=1)
-    ranking = pd.DataFrame({"mean": wide.mean(), "std": wide.std()})
-    ranking["cv"] = ranking["std"] / ranking["mean"]
-    ranking = ranking.rename_axis("word").reset_index()
-    ranking = ranking.sort_values(["cv", "mean", "word"], ascending=[True, False, True])
-    ranking["rank"] = range(1, len(ranking) + 1)
-    return ranking[["rank", "word", "cv"]]
+def stable_words(frequencies: pd.DataFrame) -> pd.DataFrame:
+    """Words found in enough texts, most widespread first."""
+    share = frequencies.groupby("word")["text_id"].nunique() / frequencies["text_id"].nunique()
+    share = share[share >= MIN_SHARE_OF_TEXTS].rename("share").reset_index()
+    if share.empty:
+        fail(f"no word appears in {MIN_SHARE_OF_TEXTS:.0%} of the texts. Lower MIN_SHARE_OF_TEXTS.")
+    return share.sort_values(["share", "word"], ascending=[False, True])
 
 
 def run(root: Path = ROOT) -> None:
-    frequencies = read_table(root / WORD_FREQUENCIES)
-    rankings = pd.concat(
-        [rank_words(rows).assign(author=author) for author, rows in frequencies.groupby("author")]
-    )
-    write_table(rankings[["author", "rank", "word", "cv"]], root / STABLE_WORDS, index=False)
-    for author, rows in rankings.groupby("author"):
-        print(f"{author}: {len(rows)} words appear in every text")
+    words = stable_words(read_table(root / WORD_FREQUENCIES))
+    write_table(words, root / STABLE_WORDS, index=False)
+    print(f"{len(words)} words appear in at least {MIN_SHARE_OF_TEXTS:.0%} of the texts")
 
 
 if __name__ == "__main__":
